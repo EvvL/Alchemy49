@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Magicforce 49",
+    "author": "Eric Olinger",
+    "background": {
+      "name": "PBT Black",
+      "style": "background-image: url('/bg/plastic/pbt-black.png');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Tea",
+    "plate": true
+  },
+  [
+    {
+      "c": "#4f4f4f",
+      "t": "#ffffff",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Tea",
+      "a": 5,
+      "f2": 2,
+      "w": 1.5
+    },
+    "ESC\n`~",
+    "Q\n1!",
+    "W\n2@",
+    "E\n3#",
+    "R\n4$",
+    "T\n5%",
+    "Y\n6^",
+    "U\n7&",
+    "I\n8*",
+    "O\n9(",
+    "P\n0)",
+    {
+      "w": 1.5
+    },
+    "BACK\n\\ |",
+    "DEL\nINS"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "TAB\nCAPS",
+    "A\nF1",
+    "S\nF2",
+    "D\nF3",
+    "F\n- _",
+    "G\n= +",
+    "H\n[ {",
+    "J\n] }",
+    "K\n;&nbsp;&nbsp;:",
+    "L\n'&nbsp;&nbsp;\"",
+    {
+      "w": 2.25
+    },
+    "ENTER",
+    "PGUP\nHOME"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "SHIFT",
+    "Z\nF4",
+    "X\nF5",
+    "C\nF6",
+    "V\nF7",
+    "B\nF8",
+    "N\nF9",
+    "M\nF10",
+    ",<\nF11",
+    ".>\nF12",
+    {
+      "f2": 1
+    },
+    "/?\nPRT SC",
+    {
+      "f2": 2
+    },
+    "▲\n<i class='fa fa-lightbulb-o'></i>+",
+    "PGDN\nEND"
+  ],
+  [
+    "CTRL",
+    {
+      "a": 7,
+      "fa": [
+        4
+      ]
+    },
+    "<i class='fa fa-windows'></i>",
+    {
+      "a": 5
+    },
+    "ALT",
+    "FN",
+    {
+      "a": 7,
+      "w": 2.75
+    },
+    "",
+    {
+      "a": 5,
+      "w": 2.25
+    },
+    "SHIFT",
+    "FN",
+    "CTRL",
+    {
+      "fa": [
+        4,
+        4
+      ]
+    },
+    "◀\n⮦🟒⮥",
+    "▼\n<i class='fa fa-lightbulb-o'></i>-",
+    "▶\n♡±"
+  ]
+]

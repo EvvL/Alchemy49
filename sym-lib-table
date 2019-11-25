@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AcheronLibrary)(type Legacy)(uri ${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib)(options "")(descr ""))
+  (lib (name SparkFun)(type Legacy)(uri ${KIPRJMOD}/SparkFun-KiCad-Libraries/Libraries/SparkFun-Boards.lib)(options "")(descr ""))
+)

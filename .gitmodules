@@ -1,0 +1,6 @@
+[submodule "AcheronLibrary"]
+	path = AcheronLibrary
+	url = https://github.com/Gondolindrim/AcheronLibrary.git
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries.git
