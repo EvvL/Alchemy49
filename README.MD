@@ -29,9 +29,9 @@ the site, tweak the layout to your liking and compile. The resulting hex file sh
 
 ## Renders
 
-![Tracespace Render (Bottom)](https://github.com/EvvL/Alchemy49/raw/master/Graphics/Tracespace-bottom.png)
+![Tracespace Render (Bottom)](https://github.com/EvvL/Alchemy49/raw/master/Graphics/Tracespace-Bottom.png)
 
-![Tracespace Render (Top)](https://github.com/EvvL/Alchemy49/raw/master/Graphics/Tracespace-top.png)
+![Tracespace Render (Top)](https://github.com/EvvL/Alchemy49/raw/master/Graphics/Tracespace-Top.png)
 
 PCB Renders by [Tracespace](https://tracespace.io/view/)
 
