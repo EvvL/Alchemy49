@@ -1,6 +1,6 @@
-update=11/21/2019 3:27:57 PM
+update=11/25/2019 3:22:05 PM
 version=1
-last_client=kicad
+last_client=pcbnew
 [general]
 version=1
 RootSch=
@@ -284,7 +284,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/4]
 Name=USB
 Clearance=0.15
-TrackWidth=0.1
+TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
