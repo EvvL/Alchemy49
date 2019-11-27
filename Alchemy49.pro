@@ -1,6 +1,6 @@
-update=11/25/2019 3:22:05 PM
+update=11/27/2019 9:15:51 AM
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
