@@ -10,4 +10,5 @@
   (lib (name AcheronLibrary_MX_A)(type KiCad)(uri ${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXA.pretty)(options "")(descr ""))
   (lib (name AcheronLibrary_SS)(type KiCad)(uri ${KIPRJMOD}/AcheronLibrary/footprints/acheron_SwitchSlots.pretty)(options "")(descr ""))
   (lib (name SparkFun_Boards)(type KiCad)(uri ${KIPRJMOD}/SparkFun-KiCad-Libraries/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name Alchemy49)(type KiCad)(uri ${KIPRJMOD}/Alchemy49.pretty)(options "")(descr ""))
 )
