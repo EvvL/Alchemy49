@@ -1,5 +1,3 @@
-# Alchemy49 
-
 <p align="center">
   <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
 </p>
@@ -41,6 +39,6 @@ the site, tweak the layout to your liking and compile. The resulting hex file sh
 PCB Renders by [Tracespace](https://tracespace.io/view/)
 
 
-## Copyright notice
+## Copyright and Licensing
 
-This project is licensed under the Acheron Open-Source Hardware License V1.2 
+This project is licensed under the [Acheron Open-Source Hardware License V1.2](https://github.com/EvvL/Alchemy49/raw/master/LICENSE.md)
