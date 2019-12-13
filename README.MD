@@ -1,6 +1,11 @@
 # Alchemy49 
 
-**Status:** *Finalizing PCB*
+<p align="center">
+  <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
+</p>
+
+
+**Status:** *Finalizing Silkscreen*
 
 ## Introduction
 
@@ -38,4 +43,4 @@ PCB Renders by [Tracespace](https://tracespace.io/view/)
 
 ## Copyright notice
 
-This project is licensed under the Acheron Open-Source Hardware License V1.2 . For the license, please check the LICENSE.md file.
+This project is licensed under the Acheron Open-Source Hardware License V1.2 
