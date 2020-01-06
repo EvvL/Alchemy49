@@ -2,7 +2,7 @@
   <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
 </p>
 
-**Status:** *Finalizing Silkscreen*
+**Status:** *Prototypes Ordered (ETA ~2020-01-14)*
 
 ## Introduction
 
