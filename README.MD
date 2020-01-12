@@ -2,13 +2,30 @@
   <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
 </p>
 
-**Status:** *Prototypes Ordered (ETA ~2020-01-14)*
+**Status:** Prototypes in and making final minor adjustments
 
 ## Introduction
 
 The Alchemy49 is a replacement pcb for the Magicforce 49 supporting LEDs, PCB mounted stabilizers and QMK. 
 It's built around the SparkFun Pro Micro and designed to be easy to put together and solder using only one 
 surface mount component. 
+
+
+## BOM (Bill of Materials)
+
++ 1x  Promicro (or Compatible)
++ 1x  Micro USB Cable
++ 1x  XM7D-0512 MiniB
++ 1x  6mm THT SPST Button
++ 49x 1N4148 (7.62mm THT)
+
+If using LEDs:
+
++ 49x 330 (5.08mm THT Resistor)
++ 49x 1.8mm LED
++ 1x  2N7002E (SOT-23)
++ 1x  100 (5.08mm THT Resistor)
++ 1x  10k (5.08mm THT Resistor)
 
 
 ## Layout
