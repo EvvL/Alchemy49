@@ -47,7 +47,7 @@ the site, tweak the layout to your liking and compile. The resulting hex file sh
 If you don't want to adjust anything you can use the [included prebuilt hex file](https://github.com/EvvL/Alchemy49/raw/master/Configuration/alchemy49.hex) 
 with all the same configuration as the stock MagicForce49 layout.
 
-![AVRDUDESS Settings](https://github.com/EvvL/Alchemy49/raw/master/Graphics/AVRDUDESS.png)
+![AVRDUDESS Settings](https://github.com/EvvL/Alchemy49/raw/master/Graphics/AVRDUDESS.PNG)
 
 
 ## Renders
