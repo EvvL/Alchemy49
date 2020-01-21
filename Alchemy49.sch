@@ -21,7 +21,8 @@ P 2325 1275
 F 0 "D1" V 2325 1350 50  0000 L CNN
 F 1 "1N4148" V 2370 1343 50  0001 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 2325 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 2325 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 2325 1275 50  0001 C CNN
+F 4 "C14538" H 2325 1275 50  0001 C CNN "Field4"
 	1    2325 1275
 	0    1    1    0   
 $EndComp
@@ -42,7 +43,8 @@ P 3175 1275
 F 0 "D2" V 3175 1350 50  0000 L CNN
 F 1 "1N4148" V 3220 1343 50  0001 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 3175 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 3175 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 3175 1275 50  0001 C CNN
+F 4 "C14538" H 3175 1275 50  0001 C CNN "Field4"
 	1    3175 1275
 	0    1    1    0   
 $EndComp
@@ -65,7 +67,8 @@ P 4025 1275
 F 0 "D3" V 3979 1343 50  0000 L CNN
 F 1 "1N4148" V 4070 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4025 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4025 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4025 1275 50  0001 C CNN
+F 4 "C14538" H 4025 1275 50  0001 C CNN "Field4"
 	1    4025 1275
 	0    1    1    0   
 $EndComp
@@ -86,7 +89,8 @@ P 4875 1275
 F 0 "D4" V 4829 1343 50  0000 L CNN
 F 1 "1N4148" V 4920 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4875 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4875 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4875 1275 50  0001 C CNN
+F 4 "C14538" H 4875 1275 50  0001 C CNN "Field4"
 	1    4875 1275
 	0    1    1    0   
 $EndComp
@@ -107,7 +111,8 @@ P 5725 1275
 F 0 "D5" V 5679 1343 50  0000 L CNN
 F 1 "1N4148" V 5770 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 5725 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 5725 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 5725 1275 50  0001 C CNN
+F 4 "C14538" H 5725 1275 50  0001 C CNN "Field4"
 	1    5725 1275
 	0    1    1    0   
 $EndComp
@@ -128,7 +133,8 @@ P 6575 1275
 F 0 "D6" V 6529 1343 50  0000 L CNN
 F 1 "1N4148" V 6620 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 6575 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 6575 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 6575 1275 50  0001 C CNN
+F 4 "C14538" H 6575 1275 50  0001 C CNN "Field4"
 	1    6575 1275
 	0    1    1    0   
 $EndComp
@@ -149,7 +155,8 @@ P 7425 1275
 F 0 "D7" V 7379 1343 50  0000 L CNN
 F 1 "1N4148" V 7470 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 7425 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 7425 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 7425 1275 50  0001 C CNN
+F 4 "C14538" H 7425 1275 50  0001 C CNN "Field4"
 	1    7425 1275
 	0    1    1    0   
 $EndComp
@@ -170,7 +177,8 @@ P 8275 1275
 F 0 "D8" V 8229 1343 50  0000 L CNN
 F 1 "1N4148" V 8320 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 8275 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 8275 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 8275 1275 50  0001 C CNN
+F 4 "C14538" H 8275 1275 50  0001 C CNN "Field4"
 	1    8275 1275
 	0    1    1    0   
 $EndComp
@@ -191,7 +199,8 @@ P 9125 1275
 F 0 "D9" V 9079 1343 50  0000 L CNN
 F 1 "1N4148" V 9170 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9125 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9125 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9125 1275 50  0001 C CNN
+F 4 "C14538" H 9125 1275 50  0001 C CNN "Field4"
 	1    9125 1275
 	0    1    1    0   
 $EndComp
@@ -212,7 +221,8 @@ P 9975 1275
 F 0 "D10" V 9929 1343 50  0000 L CNN
 F 1 "1N4148" V 10020 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9975 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9975 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9975 1275 50  0001 C CNN
+F 4 "C14538" H 9975 1275 50  0001 C CNN "Field4"
 	1    9975 1275
 	0    1    1    0   
 $EndComp
@@ -233,7 +243,8 @@ P 10825 1275
 F 0 "D11" V 10779 1343 50  0000 L CNN
 F 1 "1N4148" V 10870 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 10825 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 10825 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 10825 1275 50  0001 C CNN
+F 4 "C14538" H 10825 1275 50  0001 C CNN "Field4"
 	1    10825 1275
 	0    1    1    0   
 $EndComp
@@ -254,7 +265,8 @@ P 11675 1275
 F 0 "D12" V 11629 1343 50  0000 L CNN
 F 1 "1N4148" V 11720 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 11675 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 11675 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 11675 1275 50  0001 C CNN
+F 4 "C14538" H 11675 1275 50  0001 C CNN "Field4"
 	1    11675 1275
 	0    1    1    0   
 $EndComp
@@ -275,7 +287,8 @@ P 12525 1275
 F 0 "D13" V 12479 1343 50  0000 L CNN
 F 1 "1N4148" V 12570 1343 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 12525 1275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 12525 1275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 12525 1275 50  0001 C CNN
+F 4 "C14538" H 12525 1275 50  0001 C CNN "Field4"
 	1    12525 1275
 	0    1    1    0   
 $EndComp
@@ -331,7 +344,7 @@ P 2325 1775
 F 0 "SW1" H 2325 1825 50  0000 C CNN
 F 1 "ESC-1.5U" H 2325 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX150" H 2325 1775 50  0001 C CNN
-F 3 "" H 2325 1775 50  0001 C CNN
+F 3 "~" H 2325 1775 50  0001 C CNN
 	1    2325 1775
 	1    0    0    -1  
 $EndComp
@@ -342,7 +355,7 @@ P 3175 1775
 F 0 "SW2" H 3175 1825 50  0000 C CNN
 F 1 "Q-1U" H 3175 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 3175 1775 50  0001 C CNN
-F 3 "" H 3175 1775 50  0001 C CNN
+F 3 "~" H 3175 1775 50  0001 C CNN
 	1    3175 1775
 	1    0    0    -1  
 $EndComp
@@ -353,7 +366,7 @@ P 4025 1775
 F 0 "SW3" H 4025 1825 50  0000 C CNN
 F 1 "W-1U" H 4025 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4025 1775 50  0001 C CNN
-F 3 "" H 4025 1775 50  0001 C CNN
+F 3 "~" H 4025 1775 50  0001 C CNN
 	1    4025 1775
 	1    0    0    -1  
 $EndComp
@@ -364,7 +377,7 @@ P 4875 1775
 F 0 "SW4" H 4875 1825 50  0000 C CNN
 F 1 "E-1U" H 4875 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4875 1775 50  0001 C CNN
-F 3 "" H 4875 1775 50  0001 C CNN
+F 3 "~" H 4875 1775 50  0001 C CNN
 	1    4875 1775
 	1    0    0    -1  
 $EndComp
@@ -375,7 +388,7 @@ P 5725 1775
 F 0 "SW5" H 5725 1825 50  0000 C CNN
 F 1 "R-1U" H 5725 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 5725 1775 50  0001 C CNN
-F 3 "" H 5725 1775 50  0001 C CNN
+F 3 "~" H 5725 1775 50  0001 C CNN
 	1    5725 1775
 	1    0    0    -1  
 $EndComp
@@ -386,7 +399,7 @@ P 7425 1775
 F 0 "SW7" H 7425 1825 50  0000 C CNN
 F 1 "Y-1U" H 7425 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 7425 1775 50  0001 C CNN
-F 3 "" H 7425 1775 50  0001 C CNN
+F 3 "~" H 7425 1775 50  0001 C CNN
 	1    7425 1775
 	1    0    0    -1  
 $EndComp
@@ -397,7 +410,7 @@ P 8275 1775
 F 0 "SW8" H 8275 1825 50  0000 C CNN
 F 1 "U-1U" H 8275 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 8275 1775 50  0001 C CNN
-F 3 "" H 8275 1775 50  0001 C CNN
+F 3 "~" H 8275 1775 50  0001 C CNN
 	1    8275 1775
 	1    0    0    -1  
 $EndComp
@@ -408,7 +421,7 @@ P 9125 1775
 F 0 "SW9" H 9125 1825 50  0000 C CNN
 F 1 "I-1U" H 9125 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9125 1775 50  0001 C CNN
-F 3 "" H 9125 1775 50  0001 C CNN
+F 3 "~" H 9125 1775 50  0001 C CNN
 	1    9125 1775
 	1    0    0    -1  
 $EndComp
@@ -419,7 +432,7 @@ P 9975 1775
 F 0 "SW10" H 9975 1825 50  0000 C CNN
 F 1 "O-1U" H 9975 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9975 1775 50  0001 C CNN
-F 3 "" H 9975 1775 50  0001 C CNN
+F 3 "~" H 9975 1775 50  0001 C CNN
 	1    9975 1775
 	1    0    0    -1  
 $EndComp
@@ -430,7 +443,7 @@ P 10825 1775
 F 0 "SW11" H 10825 1825 50  0000 C CNN
 F 1 "P-1U" H 10825 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 10825 1775 50  0001 C CNN
-F 3 "" H 10825 1775 50  0001 C CNN
+F 3 "~" H 10825 1775 50  0001 C CNN
 	1    10825 1775
 	1    0    0    -1  
 $EndComp
@@ -441,7 +454,7 @@ P 11675 1775
 F 0 "SW12" H 11675 1825 50  0000 C CNN
 F 1 "BACK-1.5U" H 11675 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX150" H 11675 1775 50  0001 C CNN
-F 3 "" H 11675 1775 50  0001 C CNN
+F 3 "~" H 11675 1775 50  0001 C CNN
 	1    11675 1775
 	1    0    0    -1  
 $EndComp
@@ -452,7 +465,7 @@ P 12525 1775
 F 0 "SW13" H 12525 1825 50  0000 C CNN
 F 1 "DEL-1U" H 12525 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 12525 1775 50  0001 C CNN
-F 3 "" H 12525 1775 50  0001 C CNN
+F 3 "~" H 12525 1775 50  0001 C CNN
 	1    12525 1775
 	1    0    0    -1  
 $EndComp
@@ -463,7 +476,8 @@ P 2325 2325
 F 0 "D14" V 2325 2400 50  0000 L CNN
 F 1 "1N4148" V 2370 2393 50  0001 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 2325 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 2325 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 2325 2325 50  0001 C CNN
+F 4 "C14538" H 2325 2325 50  0001 C CNN "Field4"
 	1    2325 2325
 	0    1    1    0   
 $EndComp
@@ -480,7 +494,8 @@ P 3175 2325
 F 0 "D15" V 3129 2393 50  0000 L CNN
 F 1 "1N4148" V 3220 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 3175 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 3175 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 3175 2325 50  0001 C CNN
+F 4 "C14538" H 3175 2325 50  0001 C CNN "Field4"
 	1    3175 2325
 	0    1    1    0   
 $EndComp
@@ -501,7 +516,8 @@ P 4025 2325
 F 0 "D16" V 3979 2393 50  0000 L CNN
 F 1 "1N4148" V 4070 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4025 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4025 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4025 2325 50  0001 C CNN
+F 4 "C14538" H 4025 2325 50  0001 C CNN "Field4"
 	1    4025 2325
 	0    1    1    0   
 $EndComp
@@ -520,7 +536,8 @@ P 4875 2325
 F 0 "D17" V 4829 2393 50  0000 L CNN
 F 1 "1N4148" V 4920 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4875 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4875 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4875 2325 50  0001 C CNN
+F 4 "C14538" H 4875 2325 50  0001 C CNN "Field4"
 	1    4875 2325
 	0    1    1    0   
 $EndComp
@@ -539,7 +556,8 @@ P 5725 2325
 F 0 "D18" V 5679 2393 50  0000 L CNN
 F 1 "1N4148" V 5770 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 5725 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 5725 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 5725 2325 50  0001 C CNN
+F 4 "C14538" H 5725 2325 50  0001 C CNN "Field4"
 	1    5725 2325
 	0    1    1    0   
 $EndComp
@@ -558,7 +576,8 @@ P 6575 2325
 F 0 "D19" V 6529 2393 50  0000 L CNN
 F 1 "1N4148" V 6620 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 6575 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 6575 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 6575 2325 50  0001 C CNN
+F 4 "C14538" H 6575 2325 50  0001 C CNN "Field4"
 	1    6575 2325
 	0    1    1    0   
 $EndComp
@@ -577,7 +596,8 @@ P 7425 2325
 F 0 "D20" V 7379 2393 50  0000 L CNN
 F 1 "1N4148" V 7470 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 7425 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 7425 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 7425 2325 50  0001 C CNN
+F 4 "C14538" H 7425 2325 50  0001 C CNN "Field4"
 	1    7425 2325
 	0    1    1    0   
 $EndComp
@@ -596,7 +616,8 @@ P 8275 2325
 F 0 "D21" V 8229 2393 50  0000 L CNN
 F 1 "1N4148" V 8320 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 8275 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 8275 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 8275 2325 50  0001 C CNN
+F 4 "C14538" H 8275 2325 50  0001 C CNN "Field4"
 	1    8275 2325
 	0    1    1    0   
 $EndComp
@@ -615,7 +636,8 @@ P 9125 2325
 F 0 "D22" V 9079 2393 50  0000 L CNN
 F 1 "1N4148" V 9170 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9125 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9125 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9125 2325 50  0001 C CNN
+F 4 "C14538" H 9125 2325 50  0001 C CNN "Field4"
 	1    9125 2325
 	0    1    1    0   
 $EndComp
@@ -634,7 +656,8 @@ P 9975 2325
 F 0 "D23" V 9929 2393 50  0000 L CNN
 F 1 "1N4148" V 10020 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9975 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9975 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9975 2325 50  0001 C CNN
+F 4 "C14538" H 9975 2325 50  0001 C CNN "Field4"
 	1    9975 2325
 	0    1    1    0   
 $EndComp
@@ -653,7 +676,8 @@ P 11675 2325
 F 0 "D24" V 11629 2393 50  0000 L CNN
 F 1 "1N4148" V 11720 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 11675 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 11675 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 11675 2325 50  0001 C CNN
+F 4 "C14538" H 11675 2325 50  0001 C CNN "Field4"
 	1    11675 2325
 	0    1    1    0   
 $EndComp
@@ -670,7 +694,8 @@ P 12525 2325
 F 0 "D25" V 12479 2393 50  0000 L CNN
 F 1 "1N4148" V 12570 2393 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 12525 2325 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 12525 2325 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 12525 2325 50  0001 C CNN
+F 4 "C14538" H 12525 2325 50  0001 C CNN "Field4"
 	1    12525 2325
 	0    1    1    0   
 $EndComp
@@ -699,7 +724,7 @@ P 2325 2825
 F 0 "SW14" H 2325 2875 50  0000 C CNN
 F 1 "TAB-1.75U" H 2325 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX175" H 2325 2825 50  0001 C CNN
-F 3 "" H 2325 2825 50  0001 C CNN
+F 3 "~" H 2325 2825 50  0001 C CNN
 	1    2325 2825
 	1    0    0    -1  
 $EndComp
@@ -710,7 +735,7 @@ P 3175 2825
 F 0 "SW15" H 3175 2875 50  0000 C CNN
 F 1 "A-1U" H 3175 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 3175 2825 50  0001 C CNN
-F 3 "" H 3175 2825 50  0001 C CNN
+F 3 "~" H 3175 2825 50  0001 C CNN
 	1    3175 2825
 	1    0    0    -1  
 $EndComp
@@ -721,7 +746,7 @@ P 4025 2825
 F 0 "SW16" H 4025 2875 50  0000 C CNN
 F 1 "S-1U" H 4025 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4025 2825 50  0001 C CNN
-F 3 "" H 4025 2825 50  0001 C CNN
+F 3 "~" H 4025 2825 50  0001 C CNN
 	1    4025 2825
 	1    0    0    -1  
 $EndComp
@@ -732,7 +757,7 @@ P 4875 2825
 F 0 "SW17" H 4875 2875 50  0000 C CNN
 F 1 "D-1U" H 4875 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4875 2825 50  0001 C CNN
-F 3 "" H 4875 2825 50  0001 C CNN
+F 3 "~" H 4875 2825 50  0001 C CNN
 	1    4875 2825
 	1    0    0    -1  
 $EndComp
@@ -743,7 +768,7 @@ P 5725 2825
 F 0 "SW18" H 5725 2875 50  0000 C CNN
 F 1 "F-1U" H 5725 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 5725 2825 50  0001 C CNN
-F 3 "" H 5725 2825 50  0001 C CNN
+F 3 "~" H 5725 2825 50  0001 C CNN
 	1    5725 2825
 	1    0    0    -1  
 $EndComp
@@ -754,7 +779,7 @@ P 6575 2825
 F 0 "SW19" H 6575 2875 50  0000 C CNN
 F 1 "G-1U" H 6575 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 6575 2825 50  0001 C CNN
-F 3 "" H 6575 2825 50  0001 C CNN
+F 3 "~" H 6575 2825 50  0001 C CNN
 	1    6575 2825
 	1    0    0    -1  
 $EndComp
@@ -765,7 +790,7 @@ P 7425 2825
 F 0 "SW20" H 7425 2875 50  0000 C CNN
 F 1 "H-1U" H 7425 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 7425 2825 50  0001 C CNN
-F 3 "" H 7425 2825 50  0001 C CNN
+F 3 "~" H 7425 2825 50  0001 C CNN
 	1    7425 2825
 	1    0    0    -1  
 $EndComp
@@ -776,7 +801,7 @@ P 8275 2825
 F 0 "SW21" H 8275 2875 50  0000 C CNN
 F 1 "J-1U" H 8275 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 8275 2825 50  0001 C CNN
-F 3 "" H 8275 2825 50  0001 C CNN
+F 3 "~" H 8275 2825 50  0001 C CNN
 	1    8275 2825
 	1    0    0    -1  
 $EndComp
@@ -787,7 +812,7 @@ P 9125 2825
 F 0 "SW22" H 9125 2875 50  0000 C CNN
 F 1 "K-1U" H 9125 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9125 2825 50  0001 C CNN
-F 3 "" H 9125 2825 50  0001 C CNN
+F 3 "~" H 9125 2825 50  0001 C CNN
 	1    9125 2825
 	1    0    0    -1  
 $EndComp
@@ -798,7 +823,7 @@ P 9975 2825
 F 0 "SW23" H 9975 2875 50  0000 C CNN
 F 1 "L-1U" H 9975 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9975 2825 50  0001 C CNN
-F 3 "" H 9975 2825 50  0001 C CNN
+F 3 "~" H 9975 2825 50  0001 C CNN
 	1    9975 2825
 	1    0    0    -1  
 $EndComp
@@ -809,7 +834,7 @@ P 11675 2825
 F 0 "SW24" H 11675 2875 50  0000 C CNN
 F 1 "ENTER-2.25U" H 11675 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX225" H 11675 2825 50  0001 C CNN
-F 3 "" H 11675 2825 50  0001 C CNN
+F 3 "~" H 11675 2825 50  0001 C CNN
 	1    11675 2825
 	1    0    0    -1  
 $EndComp
@@ -820,7 +845,7 @@ P 12525 2825
 F 0 "SW25" H 12525 2875 50  0000 C CNN
 F 1 "PGUP-1U" H 12525 2800 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 12525 2825 50  0001 C CNN
-F 3 "" H 12525 2825 50  0001 C CNN
+F 3 "~" H 12525 2825 50  0001 C CNN
 	1    12525 2825
 	1    0    0    -1  
 $EndComp
@@ -868,7 +893,8 @@ P 2325 3375
 F 0 "D26" V 2279 3443 50  0000 L CNN
 F 1 "1N4148" V 2370 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 2325 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 2325 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 2325 3375 50  0001 C CNN
+F 4 "C14538" H 2325 3375 50  0001 C CNN "Field4"
 	1    2325 3375
 	0    1    1    0   
 $EndComp
@@ -885,7 +911,8 @@ P 3175 3375
 F 0 "D27" V 3129 3443 50  0000 L CNN
 F 1 "1N4148" V 3220 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 3175 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 3175 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 3175 3375 50  0001 C CNN
+F 4 "C14538" H 3175 3375 50  0001 C CNN "Field4"
 	1    3175 3375
 	0    1    1    0   
 $EndComp
@@ -906,7 +933,8 @@ P 4025 3375
 F 0 "D28" V 3979 3443 50  0000 L CNN
 F 1 "1N4148" V 4070 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4025 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4025 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4025 3375 50  0001 C CNN
+F 4 "C14538" H 4025 3375 50  0001 C CNN "Field4"
 	1    4025 3375
 	0    1    1    0   
 $EndComp
@@ -925,7 +953,8 @@ P 4875 3375
 F 0 "D29" V 4829 3443 50  0000 L CNN
 F 1 "1N4148" V 4920 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4875 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4875 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4875 3375 50  0001 C CNN
+F 4 "C14538" H 4875 3375 50  0001 C CNN "Field4"
 	1    4875 3375
 	0    1    1    0   
 $EndComp
@@ -944,7 +973,8 @@ P 5725 3375
 F 0 "D30" V 5679 3443 50  0000 L CNN
 F 1 "1N4148" V 5770 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 5725 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 5725 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 5725 3375 50  0001 C CNN
+F 4 "C14538" H 5725 3375 50  0001 C CNN "Field4"
 	1    5725 3375
 	0    1    1    0   
 $EndComp
@@ -963,7 +993,8 @@ P 6575 3375
 F 0 "D31" V 6529 3443 50  0000 L CNN
 F 1 "1N4148" V 6620 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 6575 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 6575 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 6575 3375 50  0001 C CNN
+F 4 "C14538" H 6575 3375 50  0001 C CNN "Field4"
 	1    6575 3375
 	0    1    1    0   
 $EndComp
@@ -982,7 +1013,8 @@ P 7425 3375
 F 0 "D32" V 7379 3443 50  0000 L CNN
 F 1 "1N4148" V 7470 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 7425 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 7425 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 7425 3375 50  0001 C CNN
+F 4 "C14538" H 7425 3375 50  0001 C CNN "Field4"
 	1    7425 3375
 	0    1    1    0   
 $EndComp
@@ -1001,7 +1033,8 @@ P 8275 3375
 F 0 "D33" V 8229 3443 50  0000 L CNN
 F 1 "1N4148" V 8320 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 8275 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 8275 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 8275 3375 50  0001 C CNN
+F 4 "C14538" H 8275 3375 50  0001 C CNN "Field4"
 	1    8275 3375
 	0    1    1    0   
 $EndComp
@@ -1020,7 +1053,8 @@ P 9125 3375
 F 0 "D34" V 9079 3443 50  0000 L CNN
 F 1 "1N4148" V 9170 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9125 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9125 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9125 3375 50  0001 C CNN
+F 4 "C14538" H 9125 3375 50  0001 C CNN "Field4"
 	1    9125 3375
 	0    1    1    0   
 $EndComp
@@ -1039,7 +1073,8 @@ P 9975 3375
 F 0 "D35" V 9929 3443 50  0000 L CNN
 F 1 "1N4148" V 10020 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9975 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9975 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9975 3375 50  0001 C CNN
+F 4 "C14538" H 9975 3375 50  0001 C CNN "Field4"
 	1    9975 3375
 	0    1    1    0   
 $EndComp
@@ -1058,7 +1093,8 @@ P 10825 3375
 F 0 "D36" V 10779 3443 50  0000 L CNN
 F 1 "1N4148" V 10870 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 10825 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 10825 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 10825 3375 50  0001 C CNN
+F 4 "C14538" H 10825 3375 50  0001 C CNN "Field4"
 	1    10825 3375
 	0    1    1    0   
 $EndComp
@@ -1077,7 +1113,8 @@ P 11675 3375
 F 0 "D37" V 11629 3443 50  0000 L CNN
 F 1 "1N4148" V 11720 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 11675 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 11675 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 11675 3375 50  0001 C CNN
+F 4 "C14538" H 11675 3375 50  0001 C CNN "Field4"
 	1    11675 3375
 	0    1    1    0   
 $EndComp
@@ -1096,7 +1133,8 @@ P 12525 3375
 F 0 "D38" V 12479 3443 50  0000 L CNN
 F 1 "1N4148" V 12570 3443 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 12525 3375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 12525 3375 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 12525 3375 50  0001 C CNN
+F 4 "C14538" H 12525 3375 50  0001 C CNN "Field4"
 	1    12525 3375
 	0    1    1    0   
 $EndComp
@@ -1126,7 +1164,7 @@ P 2325 3875
 F 0 "SW26" H 2325 3925 50  0000 C CNN
 F 1 "SHIFT-2U" H 2325 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX200" H 2325 3875 50  0001 C CNN
-F 3 "" H 2325 3875 50  0001 C CNN
+F 3 "~" H 2325 3875 50  0001 C CNN
 	1    2325 3875
 	1    0    0    -1  
 $EndComp
@@ -1137,7 +1175,7 @@ P 3175 3875
 F 0 "SW27" H 3175 3925 50  0000 C CNN
 F 1 "Z-1U" H 3175 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 3175 3875 50  0001 C CNN
-F 3 "" H 3175 3875 50  0001 C CNN
+F 3 "~" H 3175 3875 50  0001 C CNN
 	1    3175 3875
 	1    0    0    -1  
 $EndComp
@@ -1148,7 +1186,7 @@ P 4025 3875
 F 0 "SW28" H 4025 3925 50  0000 C CNN
 F 1 "X-1U" H 4025 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4025 3875 50  0001 C CNN
-F 3 "" H 4025 3875 50  0001 C CNN
+F 3 "~" H 4025 3875 50  0001 C CNN
 	1    4025 3875
 	1    0    0    -1  
 $EndComp
@@ -1159,7 +1197,7 @@ P 4875 3875
 F 0 "SW29" H 4875 3925 50  0000 C CNN
 F 1 "C-1U" H 4875 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4875 3875 50  0001 C CNN
-F 3 "" H 4875 3875 50  0001 C CNN
+F 3 "~" H 4875 3875 50  0001 C CNN
 	1    4875 3875
 	1    0    0    -1  
 $EndComp
@@ -1170,7 +1208,7 @@ P 5725 3875
 F 0 "SW30" H 5725 3925 50  0000 C CNN
 F 1 "V-1U" H 5725 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 5725 3875 50  0001 C CNN
-F 3 "" H 5725 3875 50  0001 C CNN
+F 3 "~" H 5725 3875 50  0001 C CNN
 	1    5725 3875
 	1    0    0    -1  
 $EndComp
@@ -1181,7 +1219,7 @@ P 6575 3875
 F 0 "SW31" H 6575 3925 50  0000 C CNN
 F 1 "B-1U" H 6575 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 6575 3875 50  0001 C CNN
-F 3 "" H 6575 3875 50  0001 C CNN
+F 3 "~" H 6575 3875 50  0001 C CNN
 	1    6575 3875
 	1    0    0    -1  
 $EndComp
@@ -1192,7 +1230,7 @@ P 7425 3875
 F 0 "SW32" H 7425 3925 50  0000 C CNN
 F 1 "N-1U" H 7425 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 7425 3875 50  0001 C CNN
-F 3 "" H 7425 3875 50  0001 C CNN
+F 3 "~" H 7425 3875 50  0001 C CNN
 	1    7425 3875
 	1    0    0    -1  
 $EndComp
@@ -1203,7 +1241,7 @@ P 8275 3875
 F 0 "SW33" H 8275 3925 50  0000 C CNN
 F 1 "M-1U" H 8275 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 8275 3875 50  0001 C CNN
-F 3 "" H 8275 3875 50  0001 C CNN
+F 3 "~" H 8275 3875 50  0001 C CNN
 	1    8275 3875
 	1    0    0    -1  
 $EndComp
@@ -1214,7 +1252,7 @@ P 9125 3875
 F 0 "SW34" H 9125 3925 50  0000 C CNN
 F 1 "COM-1U" H 9125 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9125 3875 50  0001 C CNN
-F 3 "" H 9125 3875 50  0001 C CNN
+F 3 "~" H 9125 3875 50  0001 C CNN
 	1    9125 3875
 	1    0    0    -1  
 $EndComp
@@ -1225,7 +1263,7 @@ P 9975 3875
 F 0 "SW35" H 9975 3925 50  0000 C CNN
 F 1 "PER-1U" H 9975 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9975 3875 50  0001 C CNN
-F 3 "" H 9975 3875 50  0001 C CNN
+F 3 "~" H 9975 3875 50  0001 C CNN
 	1    9975 3875
 	1    0    0    -1  
 $EndComp
@@ -1236,7 +1274,7 @@ P 10825 3875
 F 0 "SW36" H 10825 3925 50  0000 C CNN
 F 1 "SLASH-1U" H 10825 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 10825 3875 50  0001 C CNN
-F 3 "" H 10825 3875 50  0001 C CNN
+F 3 "~" H 10825 3875 50  0001 C CNN
 	1    10825 3875
 	1    0    0    -1  
 $EndComp
@@ -1247,7 +1285,7 @@ P 11675 3875
 F 0 "SW37" H 11675 3925 50  0000 C CNN
 F 1 "UP-1U" H 11675 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 11675 3875 50  0001 C CNN
-F 3 "" H 11675 3875 50  0001 C CNN
+F 3 "~" H 11675 3875 50  0001 C CNN
 	1    11675 3875
 	1    0    0    -1  
 $EndComp
@@ -1258,7 +1296,7 @@ P 12525 3875
 F 0 "SW38" H 12525 3925 50  0000 C CNN
 F 1 "PGDN-1U" H 12525 3850 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 12525 3875 50  0001 C CNN
-F 3 "" H 12525 3875 50  0001 C CNN
+F 3 "~" H 12525 3875 50  0001 C CNN
 	1    12525 3875
 	1    0    0    -1  
 $EndComp
@@ -1293,7 +1331,8 @@ P 2325 4425
 F 0 "D39" V 2279 4493 50  0000 L CNN
 F 1 "1N4148" V 2370 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 2325 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 2325 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 2325 4425 50  0001 C CNN
+F 4 "C14538" H 2325 4425 50  0001 C CNN "Field4"
 	1    2325 4425
 	0    1    1    0   
 $EndComp
@@ -1310,7 +1349,8 @@ P 3175 4425
 F 0 "D40" V 3129 4493 50  0000 L CNN
 F 1 "1N4148" V 3220 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 3175 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 3175 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 3175 4425 50  0001 C CNN
+F 4 "C14538" H 3175 4425 50  0001 C CNN "Field4"
 	1    3175 4425
 	0    1    1    0   
 $EndComp
@@ -1331,7 +1371,8 @@ P 4025 4425
 F 0 "D41" V 3979 4493 50  0000 L CNN
 F 1 "1N4148" V 4070 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4025 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4025 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4025 4425 50  0001 C CNN
+F 4 "C14538" H 4025 4425 50  0001 C CNN "Field4"
 	1    4025 4425
 	0    1    1    0   
 $EndComp
@@ -1350,7 +1391,8 @@ P 4875 4425
 F 0 "D42" V 4829 4493 50  0000 L CNN
 F 1 "1N4148" V 4920 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 4875 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 4875 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 4875 4425 50  0001 C CNN
+F 4 "C14538" H 4875 4425 50  0001 C CNN "Field4"
 	1    4875 4425
 	0    1    1    0   
 $EndComp
@@ -1369,7 +1411,8 @@ P 6575 4425
 F 0 "D43" V 6529 4493 50  0000 L CNN
 F 1 "1N4148" V 6620 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 6575 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 6575 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 6575 4425 50  0001 C CNN
+F 4 "C14538" H 6575 4425 50  0001 C CNN "Field4"
 	1    6575 4425
 	0    1    1    0   
 $EndComp
@@ -1386,7 +1429,8 @@ P 8275 4425
 F 0 "D44" V 8229 4493 50  0000 L CNN
 F 1 "1N4148" V 8320 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 8275 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 8275 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 8275 4425 50  0001 C CNN
+F 4 "C14538" H 8275 4425 50  0001 C CNN "Field4"
 	1    8275 4425
 	0    1    1    0   
 $EndComp
@@ -1403,7 +1447,8 @@ P 9125 4425
 F 0 "D45" V 9079 4493 50  0000 L CNN
 F 1 "1N4148" V 9170 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9125 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9125 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9125 4425 50  0001 C CNN
+F 4 "C14538" H 9125 4425 50  0001 C CNN "Field4"
 	1    9125 4425
 	0    1    1    0   
 $EndComp
@@ -1422,7 +1467,8 @@ P 9975 4425
 F 0 "D46" V 9929 4493 50  0000 L CNN
 F 1 "1N4148" V 10020 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 9975 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 9975 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 9975 4425 50  0001 C CNN
+F 4 "C14538" H 9975 4425 50  0001 C CNN "Field4"
 	1    9975 4425
 	0    1    1    0   
 $EndComp
@@ -1441,7 +1487,8 @@ P 10825 4425
 F 0 "D47" V 10779 4493 50  0000 L CNN
 F 1 "1N4148" V 10870 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 10825 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 10825 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 10825 4425 50  0001 C CNN
+F 4 "C14538" H 10825 4425 50  0001 C CNN "Field4"
 	1    10825 4425
 	0    1    1    0   
 $EndComp
@@ -1460,7 +1507,8 @@ P 11675 4425
 F 0 "D48" V 11629 4493 50  0000 L CNN
 F 1 "1N4148" V 11720 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 11675 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 11675 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 11675 4425 50  0001 C CNN
+F 4 "C14538" H 11675 4425 50  0001 C CNN "Field4"
 	1    11675 4425
 	0    1    1    0   
 $EndComp
@@ -1479,7 +1527,8 @@ P 12525 4425
 F 0 "D49" V 12479 4493 50  0000 L CNN
 F 1 "1N4148" V 12570 4493 50  0000 L CNN
 F 2 "AcheronLibrary_COM:D_THT_7.62mm" V 12525 4425 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/ds12019.pdf" V 12525 4425 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1809281716_ST-Semtech-1N4148_C14538.pdf" V 12525 4425 50  0001 C CNN
+F 4 "C14538" H 12525 4425 50  0001 C CNN "Field4"
 	1    12525 4425
 	0    1    1    0   
 $EndComp
@@ -1507,7 +1556,7 @@ P 2325 4925
 F 0 "SW39" H 2325 4975 50  0000 C CNN
 F 1 "CTRL1-1U" H 2325 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 2325 4925 50  0001 C CNN
-F 3 "" H 2325 4925 50  0001 C CNN
+F 3 "~" H 2325 4925 50  0001 C CNN
 	1    2325 4925
 	1    0    0    -1  
 $EndComp
@@ -1518,7 +1567,7 @@ P 3175 4925
 F 0 "SW40" H 3175 4975 50  0000 C CNN
 F 1 "WIN-1U" H 3175 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 3175 4925 50  0001 C CNN
-F 3 "" H 3175 4925 50  0001 C CNN
+F 3 "~" H 3175 4925 50  0001 C CNN
 	1    3175 4925
 	1    0    0    -1  
 $EndComp
@@ -1529,7 +1578,7 @@ P 4025 4925
 F 0 "SW41" H 4025 4975 50  0000 C CNN
 F 1 "ALT-1U" H 4025 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4025 4925 50  0001 C CNN
-F 3 "" H 4025 4925 50  0001 C CNN
+F 3 "~" H 4025 4925 50  0001 C CNN
 	1    4025 4925
 	1    0    0    -1  
 $EndComp
@@ -1540,7 +1589,7 @@ P 4875 4925
 F 0 "SW42" H 4875 4975 50  0000 C CNN
 F 1 "FN1-1U" H 4875 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 4875 4925 50  0001 C CNN
-F 3 "" H 4875 4925 50  0001 C CNN
+F 3 "~" H 4875 4925 50  0001 C CNN
 	1    4875 4925
 	1    0    0    -1  
 $EndComp
@@ -1551,7 +1600,7 @@ P 6575 4925
 F 0 "SW43" H 6575 4975 50  0000 C CNN
 F 1 "SPACE-2.75U" H 6575 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX275R" H 6575 4925 50  0001 C CNN
-F 3 "" H 6575 4925 50  0001 C CNN
+F 3 "~" H 6575 4925 50  0001 C CNN
 	1    6575 4925
 	1    0    0    -1  
 $EndComp
@@ -1562,7 +1611,7 @@ P 8275 4925
 F 0 "SW44" H 8275 4975 50  0000 C CNN
 F 1 "SHIFT-2.25U" H 8275 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX225R" H 8275 4925 50  0001 C CNN
-F 3 "" H 8275 4925 50  0001 C CNN
+F 3 "~" H 8275 4925 50  0001 C CNN
 	1    8275 4925
 	1    0    0    -1  
 $EndComp
@@ -1573,7 +1622,7 @@ P 9125 4925
 F 0 "SW45" H 9125 4975 50  0000 C CNN
 F 1 "FN2-1U" H 9125 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9125 4925 50  0001 C CNN
-F 3 "" H 9125 4925 50  0001 C CNN
+F 3 "~" H 9125 4925 50  0001 C CNN
 	1    9125 4925
 	1    0    0    -1  
 $EndComp
@@ -1584,7 +1633,7 @@ P 9975 4925
 F 0 "SW46" H 9975 4975 50  0000 C CNN
 F 1 "CTRL2-1U" H 9975 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 9975 4925 50  0001 C CNN
-F 3 "" H 9975 4925 50  0001 C CNN
+F 3 "~" H 9975 4925 50  0001 C CNN
 	1    9975 4925
 	1    0    0    -1  
 $EndComp
@@ -1595,7 +1644,7 @@ P 10825 4925
 F 0 "SW47" H 10825 4975 50  0000 C CNN
 F 1 "LEFT-1U" H 10825 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 10825 4925 50  0001 C CNN
-F 3 "" H 10825 4925 50  0001 C CNN
+F 3 "~" H 10825 4925 50  0001 C CNN
 	1    10825 4925
 	1    0    0    -1  
 $EndComp
@@ -1606,7 +1655,7 @@ P 11675 4925
 F 0 "SW48" H 11675 4975 50  0000 C CNN
 F 1 "DOWN-1U" H 11675 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 11675 4925 50  0001 C CNN
-F 3 "" H 11675 4925 50  0001 C CNN
+F 3 "~" H 11675 4925 50  0001 C CNN
 	1    11675 4925
 	1    0    0    -1  
 $EndComp
@@ -1617,7 +1666,7 @@ P 12525 4925
 F 0 "SW49" H 12525 4975 50  0000 C CNN
 F 1 "RIGHT-1U" H 12525 4900 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 12525 4925 50  0001 C CNN
-F 3 "" H 12525 4925 50  0001 C CNN
+F 3 "~" H 12525 4925 50  0001 C CNN
 	1    12525 4925
 	1    0    0    -1  
 $EndComp
@@ -1650,7 +1699,7 @@ P 6575 1775
 F 0 "SW6" H 6575 1825 50  0000 C CNN
 F 1 "T-1U" H 6575 1750 39  0000 C CNN
 F 2 "AcheronLibrary_MX:MX100" H 6575 1775 50  0001 C CNN
-F 3 "" H 6575 1775 50  0001 C CNN
+F 3 "~" H 6575 1775 50  0001 C CNN
 	1    6575 1775
 	1    0    0    -1  
 $EndComp
@@ -1744,38 +1793,8 @@ Wire Wire Line
 	1725 3225 2325 3225
 Wire Wire Line
 	1725 4275 2325 4275
-Text Notes 6875 7350 0    50   ~ 0
-Mounting Holes
-Wire Notes Line
-	6850 7400 7500 7400
-Wire Notes Line
-	7500 7400 7500 7250
 Text GLabel 8600 6150 2    50   Input ~ 0
 VCC
-$Comp
-L Mechanical:MountingHole_Pad H2
-U 1 1 5DBCB8FF
-P 8250 7675
-F 0 "H2" V 8204 7825 50  0000 L CNN
-F 1 "MountingHole_Pad" V 8295 7825 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.5mm_Pad_Via" H 8250 7675 50  0001 C CNN
-F 3 "~" H 8250 7675 50  0001 C CNN
-	1    8250 7675
-	0    1    1    0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H1
-U 1 1 5DBCA981
-P 7100 7650
-F 0 "H1" V 7054 7800 50  0000 L CNN
-F 1 "MountingHole_Pad" V 7145 7800 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.5mm_Pad_Via" H 7100 7650 50  0001 C CNN
-F 3 "~" H 7100 7650 50  0001 C CNN
-	1    7100 7650
-	0    1    1    0   
-$EndComp
-NoConn ~ 7000 7650
-NoConn ~ 8150 7675
 Text GLabel 8600 6950 2    50   Input ~ 0
 LEDCTL
 Wire Notes Line
@@ -1789,7 +1808,7 @@ P 1425 5875
 F 0 "LED1" H 1425 6025 20  0000 C CNN
 F 1 "LED" H 1425 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 5875 50  0001 C CNN
-F 3 "" H 1425 5875 50  0001 C CNN
+F 3 "~" H 1425 5875 50  0001 C CNN
 	1    1425 5875
 	1    0    0    -1  
 $EndComp
@@ -1800,7 +1819,8 @@ P 1175 5875
 F 0 "R1" V 1051 5875 20  0000 C CNN
 F 1 "330" V 1094 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1175 5875 50  0001 C CNN
-F 3 "~" H 1175 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1175 5875 50  0001 C CNN
+F 4 "C120043" H 1175 5875 50  0001 C CNN "Field4"
 	1    1175 5875
 	0    1    1    0   
 $EndComp
@@ -1821,7 +1841,7 @@ P 1975 5875
 F 0 "LED2" H 1975 6025 20  0000 C CNN
 F 1 "LED" H 1975 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 5875 50  0001 C CNN
-F 3 "" H 1975 5875 50  0001 C CNN
+F 3 "~" H 1975 5875 50  0001 C CNN
 	1    1975 5875
 	1    0    0    -1  
 $EndComp
@@ -1832,7 +1852,8 @@ P 1725 5875
 F 0 "R2" V 1601 5875 20  0000 C CNN
 F 1 "330" V 1644 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1725 5875 50  0001 C CNN
-F 3 "~" H 1725 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1725 5875 50  0001 C CNN
+F 4 "C120043" H 1725 5875 50  0001 C CNN "Field4"
 	1    1725 5875
 	0    1    1    0   
 $EndComp
@@ -1847,7 +1868,7 @@ P 2525 5875
 F 0 "LED3" H 2525 6025 20  0000 C CNN
 F 1 "LED" H 2525 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 5875 50  0001 C CNN
-F 3 "" H 2525 5875 50  0001 C CNN
+F 3 "~" H 2525 5875 50  0001 C CNN
 	1    2525 5875
 	1    0    0    -1  
 $EndComp
@@ -1858,7 +1879,8 @@ P 2275 5875
 F 0 "R3" V 2151 5875 20  0000 C CNN
 F 1 "330" V 2194 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2275 5875 50  0001 C CNN
-F 3 "~" H 2275 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2275 5875 50  0001 C CNN
+F 4 "C120043" H 2275 5875 50  0001 C CNN "Field4"
 	1    2275 5875
 	0    1    1    0   
 $EndComp
@@ -1873,7 +1895,7 @@ P 3075 5875
 F 0 "LED4" H 3075 6025 20  0000 C CNN
 F 1 "LED" H 3075 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 5875 50  0001 C CNN
-F 3 "" H 3075 5875 50  0001 C CNN
+F 3 "~" H 3075 5875 50  0001 C CNN
 	1    3075 5875
 	1    0    0    -1  
 $EndComp
@@ -1884,7 +1906,8 @@ P 2825 5875
 F 0 "R4" V 2701 5875 20  0000 C CNN
 F 1 "330" V 2744 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2825 5875 50  0001 C CNN
-F 3 "~" H 2825 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2825 5875 50  0001 C CNN
+F 4 "C120043" H 2825 5875 50  0001 C CNN "Field4"
 	1    2825 5875
 	0    1    1    0   
 $EndComp
@@ -1899,7 +1922,7 @@ P 3625 5875
 F 0 "LED5" H 3625 6025 20  0000 C CNN
 F 1 "LED" H 3625 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 5875 50  0001 C CNN
-F 3 "" H 3625 5875 50  0001 C CNN
+F 3 "~" H 3625 5875 50  0001 C CNN
 	1    3625 5875
 	1    0    0    -1  
 $EndComp
@@ -1910,7 +1933,8 @@ P 3375 5875
 F 0 "R5" V 3251 5875 20  0000 C CNN
 F 1 "330" V 3294 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3375 5875 50  0001 C CNN
-F 3 "~" H 3375 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3375 5875 50  0001 C CNN
+F 4 "C120043" H 3375 5875 50  0001 C CNN "Field4"
 	1    3375 5875
 	0    1    1    0   
 $EndComp
@@ -1925,7 +1949,7 @@ P 4175 5875
 F 0 "LED6" H 4175 6025 20  0000 C CNN
 F 1 "LED" H 4175 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 5875 50  0001 C CNN
-F 3 "" H 4175 5875 50  0001 C CNN
+F 3 "~" H 4175 5875 50  0001 C CNN
 	1    4175 5875
 	1    0    0    -1  
 $EndComp
@@ -1936,7 +1960,8 @@ P 3925 5875
 F 0 "R6" V 3801 5875 20  0000 C CNN
 F 1 "330" V 3844 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3925 5875 50  0001 C CNN
-F 3 "~" H 3925 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3925 5875 50  0001 C CNN
+F 4 "C120043" H 3925 5875 50  0001 C CNN "Field4"
 	1    3925 5875
 	0    1    1    0   
 $EndComp
@@ -1951,7 +1976,7 @@ P 4725 5875
 F 0 "LED7" H 4725 6025 20  0000 C CNN
 F 1 "LED" H 4725 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 5875 50  0001 C CNN
-F 3 "" H 4725 5875 50  0001 C CNN
+F 3 "~" H 4725 5875 50  0001 C CNN
 	1    4725 5875
 	1    0    0    -1  
 $EndComp
@@ -1962,7 +1987,8 @@ P 4475 5875
 F 0 "R7" V 4351 5875 20  0000 C CNN
 F 1 "330" V 4394 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 4475 5875 50  0001 C CNN
-F 3 "~" H 4475 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 4475 5875 50  0001 C CNN
+F 4 "C120043" H 4475 5875 50  0001 C CNN "Field4"
 	1    4475 5875
 	0    1    1    0   
 $EndComp
@@ -1977,7 +2003,7 @@ P 5275 5875
 F 0 "LED8" H 5275 6025 20  0000 C CNN
 F 1 "LED" H 5275 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 5875 50  0001 C CNN
-F 3 "" H 5275 5875 50  0001 C CNN
+F 3 "~" H 5275 5875 50  0001 C CNN
 	1    5275 5875
 	1    0    0    -1  
 $EndComp
@@ -1988,7 +2014,8 @@ P 5025 5875
 F 0 "R8" V 4901 5875 20  0000 C CNN
 F 1 "330" V 4944 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5025 5875 50  0001 C CNN
-F 3 "~" H 5025 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5025 5875 50  0001 C CNN
+F 4 "C120043" H 5025 5875 50  0001 C CNN "Field4"
 	1    5025 5875
 	0    1    1    0   
 $EndComp
@@ -2003,7 +2030,7 @@ P 5825 5875
 F 0 "LED9" H 5825 6025 20  0000 C CNN
 F 1 "LED" H 5825 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 5875 50  0001 C CNN
-F 3 "" H 5825 5875 50  0001 C CNN
+F 3 "~" H 5825 5875 50  0001 C CNN
 	1    5825 5875
 	1    0    0    -1  
 $EndComp
@@ -2014,7 +2041,8 @@ P 5575 5875
 F 0 "R9" V 5451 5875 20  0000 C CNN
 F 1 "330" V 5494 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5575 5875 50  0001 C CNN
-F 3 "~" H 5575 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5575 5875 50  0001 C CNN
+F 4 "C120043" H 5575 5875 50  0001 C CNN "Field4"
 	1    5575 5875
 	0    1    1    0   
 $EndComp
@@ -2029,7 +2057,7 @@ P 6375 5875
 F 0 "LED10" H 6375 6025 20  0000 C CNN
 F 1 "LED" H 6375 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 5875 50  0001 C CNN
-F 3 "" H 6375 5875 50  0001 C CNN
+F 3 "~" H 6375 5875 50  0001 C CNN
 	1    6375 5875
 	1    0    0    -1  
 $EndComp
@@ -2040,7 +2068,8 @@ P 6125 5875
 F 0 "R10" V 6001 5875 20  0000 C CNN
 F 1 "330" V 6044 5875 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 6125 5875 50  0001 C CNN
-F 3 "~" H 6125 5875 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 6125 5875 50  0001 C CNN
+F 4 "C120043" H 6125 5875 50  0001 C CNN "Field4"
 	1    6125 5875
 	0    1    1    0   
 $EndComp
@@ -2055,7 +2084,7 @@ P 1425 6300
 F 0 "LED11" H 1425 6450 20  0000 C CNN
 F 1 "LED" H 1425 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 6300 50  0001 C CNN
-F 3 "" H 1425 6300 50  0001 C CNN
+F 3 "~" H 1425 6300 50  0001 C CNN
 	1    1425 6300
 	1    0    0    -1  
 $EndComp
@@ -2066,7 +2095,8 @@ P 1175 6300
 F 0 "R11" V 1051 6300 20  0000 C CNN
 F 1 "330" V 1094 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1175 6300 50  0001 C CNN
-F 3 "~" H 1175 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1175 6300 50  0001 C CNN
+F 4 "C120043" H 1175 6300 50  0001 C CNN "Field4"
 	1    1175 6300
 	0    1    1    0   
 $EndComp
@@ -2081,7 +2111,7 @@ P 1975 6300
 F 0 "LED12" H 1975 6450 20  0000 C CNN
 F 1 "LED" H 1975 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 6300 50  0001 C CNN
-F 3 "" H 1975 6300 50  0001 C CNN
+F 3 "~" H 1975 6300 50  0001 C CNN
 	1    1975 6300
 	1    0    0    -1  
 $EndComp
@@ -2092,7 +2122,8 @@ P 1725 6300
 F 0 "R12" V 1601 6300 20  0000 C CNN
 F 1 "330" V 1644 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1725 6300 50  0001 C CNN
-F 3 "~" H 1725 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1725 6300 50  0001 C CNN
+F 4 "C120043" H 1725 6300 50  0001 C CNN "Field4"
 	1    1725 6300
 	0    1    1    0   
 $EndComp
@@ -2107,7 +2138,7 @@ P 2525 6300
 F 0 "LED13" H 2525 6450 20  0000 C CNN
 F 1 "LED" H 2525 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 6300 50  0001 C CNN
-F 3 "" H 2525 6300 50  0001 C CNN
+F 3 "~" H 2525 6300 50  0001 C CNN
 	1    2525 6300
 	1    0    0    -1  
 $EndComp
@@ -2118,7 +2149,8 @@ P 2275 6300
 F 0 "R13" V 2151 6300 20  0000 C CNN
 F 1 "330" V 2194 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2275 6300 50  0001 C CNN
-F 3 "~" H 2275 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2275 6300 50  0001 C CNN
+F 4 "C120043" H 2275 6300 50  0001 C CNN "Field4"
 	1    2275 6300
 	0    1    1    0   
 $EndComp
@@ -2133,7 +2165,7 @@ P 3075 6300
 F 0 "LED14" H 3075 6450 20  0000 C CNN
 F 1 "LED" H 3075 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 6300 50  0001 C CNN
-F 3 "" H 3075 6300 50  0001 C CNN
+F 3 "~" H 3075 6300 50  0001 C CNN
 	1    3075 6300
 	1    0    0    -1  
 $EndComp
@@ -2144,7 +2176,8 @@ P 2825 6300
 F 0 "R14" V 2701 6300 20  0000 C CNN
 F 1 "330" V 2744 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2825 6300 50  0001 C CNN
-F 3 "~" H 2825 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2825 6300 50  0001 C CNN
+F 4 "C120043" H 2825 6300 50  0001 C CNN "Field4"
 	1    2825 6300
 	0    1    1    0   
 $EndComp
@@ -2159,7 +2192,7 @@ P 3625 6300
 F 0 "LED15" H 3625 6450 20  0000 C CNN
 F 1 "LED" H 3625 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 6300 50  0001 C CNN
-F 3 "" H 3625 6300 50  0001 C CNN
+F 3 "~" H 3625 6300 50  0001 C CNN
 	1    3625 6300
 	1    0    0    -1  
 $EndComp
@@ -2170,7 +2203,8 @@ P 3375 6300
 F 0 "R15" V 3251 6300 20  0000 C CNN
 F 1 "330" V 3294 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3375 6300 50  0001 C CNN
-F 3 "~" H 3375 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3375 6300 50  0001 C CNN
+F 4 "C120043" H 3375 6300 50  0001 C CNN "Field4"
 	1    3375 6300
 	0    1    1    0   
 $EndComp
@@ -2185,7 +2219,7 @@ P 4175 6300
 F 0 "LED16" H 4175 6450 20  0000 C CNN
 F 1 "LED" H 4175 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 6300 50  0001 C CNN
-F 3 "" H 4175 6300 50  0001 C CNN
+F 3 "~" H 4175 6300 50  0001 C CNN
 	1    4175 6300
 	1    0    0    -1  
 $EndComp
@@ -2196,7 +2230,8 @@ P 3925 6300
 F 0 "R16" V 3801 6300 20  0000 C CNN
 F 1 "330" V 3844 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3925 6300 50  0001 C CNN
-F 3 "~" H 3925 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3925 6300 50  0001 C CNN
+F 4 "C120043" H 3925 6300 50  0001 C CNN "Field4"
 	1    3925 6300
 	0    1    1    0   
 $EndComp
@@ -2211,7 +2246,7 @@ P 4725 6300
 F 0 "LED17" H 4725 6450 20  0000 C CNN
 F 1 "LED" H 4725 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 6300 50  0001 C CNN
-F 3 "" H 4725 6300 50  0001 C CNN
+F 3 "~" H 4725 6300 50  0001 C CNN
 	1    4725 6300
 	1    0    0    -1  
 $EndComp
@@ -2222,7 +2257,8 @@ P 4475 6300
 F 0 "R17" V 4351 6300 20  0000 C CNN
 F 1 "330" V 4394 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 4475 6300 50  0001 C CNN
-F 3 "~" H 4475 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 4475 6300 50  0001 C CNN
+F 4 "C120043" H 4475 6300 50  0001 C CNN "Field4"
 	1    4475 6300
 	0    1    1    0   
 $EndComp
@@ -2237,7 +2273,7 @@ P 5275 6300
 F 0 "LED18" H 5275 6450 20  0000 C CNN
 F 1 "LED" H 5275 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 6300 50  0001 C CNN
-F 3 "" H 5275 6300 50  0001 C CNN
+F 3 "~" H 5275 6300 50  0001 C CNN
 	1    5275 6300
 	1    0    0    -1  
 $EndComp
@@ -2248,7 +2284,8 @@ P 5025 6300
 F 0 "R18" V 4901 6300 20  0000 C CNN
 F 1 "330" V 4944 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5025 6300 50  0001 C CNN
-F 3 "~" H 5025 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5025 6300 50  0001 C CNN
+F 4 "C120043" H 5025 6300 50  0001 C CNN "Field4"
 	1    5025 6300
 	0    1    1    0   
 $EndComp
@@ -2263,7 +2300,7 @@ P 5825 6300
 F 0 "LED19" H 5825 6450 20  0000 C CNN
 F 1 "LED" H 5825 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 6300 50  0001 C CNN
-F 3 "" H 5825 6300 50  0001 C CNN
+F 3 "~" H 5825 6300 50  0001 C CNN
 	1    5825 6300
 	1    0    0    -1  
 $EndComp
@@ -2274,7 +2311,8 @@ P 5575 6300
 F 0 "R19" V 5451 6300 20  0000 C CNN
 F 1 "330" V 5494 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5575 6300 50  0001 C CNN
-F 3 "~" H 5575 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5575 6300 50  0001 C CNN
+F 4 "C120043" H 5575 6300 50  0001 C CNN "Field4"
 	1    5575 6300
 	0    1    1    0   
 $EndComp
@@ -2289,7 +2327,7 @@ P 6375 6300
 F 0 "LED20" H 6375 6450 20  0000 C CNN
 F 1 "LED" H 6375 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 6300 50  0001 C CNN
-F 3 "" H 6375 6300 50  0001 C CNN
+F 3 "~" H 6375 6300 50  0001 C CNN
 	1    6375 6300
 	1    0    0    -1  
 $EndComp
@@ -2300,7 +2338,8 @@ P 6125 6300
 F 0 "R20" V 6001 6300 20  0000 C CNN
 F 1 "330" V 6044 6300 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 6125 6300 50  0001 C CNN
-F 3 "~" H 6125 6300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 6125 6300 50  0001 C CNN
+F 4 "C120043" H 6125 6300 50  0001 C CNN "Field4"
 	1    6125 6300
 	0    1    1    0   
 $EndComp
@@ -2315,7 +2354,7 @@ P 1425 6725
 F 0 "LED21" H 1425 6875 20  0000 C CNN
 F 1 "LED" H 1425 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 6725 50  0001 C CNN
-F 3 "" H 1425 6725 50  0001 C CNN
+F 3 "~" H 1425 6725 50  0001 C CNN
 	1    1425 6725
 	1    0    0    -1  
 $EndComp
@@ -2326,7 +2365,8 @@ P 1175 6725
 F 0 "R21" V 1051 6725 20  0000 C CNN
 F 1 "330" V 1094 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1175 6725 50  0001 C CNN
-F 3 "~" H 1175 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1175 6725 50  0001 C CNN
+F 4 "C120043" H 1175 6725 50  0001 C CNN "Field4"
 	1    1175 6725
 	0    1    1    0   
 $EndComp
@@ -2341,7 +2381,7 @@ P 1975 6725
 F 0 "LED22" H 1975 6875 20  0000 C CNN
 F 1 "LED" H 1975 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 6725 50  0001 C CNN
-F 3 "" H 1975 6725 50  0001 C CNN
+F 3 "~" H 1975 6725 50  0001 C CNN
 	1    1975 6725
 	1    0    0    -1  
 $EndComp
@@ -2352,7 +2392,8 @@ P 1725 6725
 F 0 "R22" V 1601 6725 20  0000 C CNN
 F 1 "330" V 1644 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1725 6725 50  0001 C CNN
-F 3 "~" H 1725 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1725 6725 50  0001 C CNN
+F 4 "C120043" H 1725 6725 50  0001 C CNN "Field4"
 	1    1725 6725
 	0    1    1    0   
 $EndComp
@@ -2367,7 +2408,7 @@ P 2525 6725
 F 0 "LED23" H 2525 6875 20  0000 C CNN
 F 1 "LED" H 2525 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 6725 50  0001 C CNN
-F 3 "" H 2525 6725 50  0001 C CNN
+F 3 "~" H 2525 6725 50  0001 C CNN
 	1    2525 6725
 	1    0    0    -1  
 $EndComp
@@ -2378,7 +2419,8 @@ P 2275 6725
 F 0 "R23" V 2151 6725 20  0000 C CNN
 F 1 "330" V 2194 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2275 6725 50  0001 C CNN
-F 3 "~" H 2275 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2275 6725 50  0001 C CNN
+F 4 "C120043" H 2275 6725 50  0001 C CNN "Field4"
 	1    2275 6725
 	0    1    1    0   
 $EndComp
@@ -2393,7 +2435,7 @@ P 3075 6725
 F 0 "LED24" H 3075 6875 20  0000 C CNN
 F 1 "LED" H 3075 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 6725 50  0001 C CNN
-F 3 "" H 3075 6725 50  0001 C CNN
+F 3 "~" H 3075 6725 50  0001 C CNN
 	1    3075 6725
 	1    0    0    -1  
 $EndComp
@@ -2404,7 +2446,8 @@ P 2825 6725
 F 0 "R24" V 2701 6725 20  0000 C CNN
 F 1 "330" V 2744 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2825 6725 50  0001 C CNN
-F 3 "~" H 2825 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2825 6725 50  0001 C CNN
+F 4 "C120043" H 2825 6725 50  0001 C CNN "Field4"
 	1    2825 6725
 	0    1    1    0   
 $EndComp
@@ -2419,7 +2462,7 @@ P 3625 6725
 F 0 "LED25" H 3625 6875 20  0000 C CNN
 F 1 "LED" H 3625 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 6725 50  0001 C CNN
-F 3 "" H 3625 6725 50  0001 C CNN
+F 3 "~" H 3625 6725 50  0001 C CNN
 	1    3625 6725
 	1    0    0    -1  
 $EndComp
@@ -2430,7 +2473,8 @@ P 3375 6725
 F 0 "R25" V 3251 6725 20  0000 C CNN
 F 1 "330" V 3294 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3375 6725 50  0001 C CNN
-F 3 "~" H 3375 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3375 6725 50  0001 C CNN
+F 4 "C120043" H 3375 6725 50  0001 C CNN "Field4"
 	1    3375 6725
 	0    1    1    0   
 $EndComp
@@ -2445,7 +2489,7 @@ P 4175 6725
 F 0 "LED26" H 4175 6875 20  0000 C CNN
 F 1 "LED" H 4175 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 6725 50  0001 C CNN
-F 3 "" H 4175 6725 50  0001 C CNN
+F 3 "~" H 4175 6725 50  0001 C CNN
 	1    4175 6725
 	1    0    0    -1  
 $EndComp
@@ -2456,7 +2500,8 @@ P 3925 6725
 F 0 "R26" V 3801 6725 20  0000 C CNN
 F 1 "330" V 3844 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3925 6725 50  0001 C CNN
-F 3 "~" H 3925 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3925 6725 50  0001 C CNN
+F 4 "C120043" H 3925 6725 50  0001 C CNN "Field4"
 	1    3925 6725
 	0    1    1    0   
 $EndComp
@@ -2471,7 +2516,7 @@ P 4725 6725
 F 0 "LED27" H 4725 6875 20  0000 C CNN
 F 1 "LED" H 4725 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 6725 50  0001 C CNN
-F 3 "" H 4725 6725 50  0001 C CNN
+F 3 "~" H 4725 6725 50  0001 C CNN
 	1    4725 6725
 	1    0    0    -1  
 $EndComp
@@ -2482,7 +2527,8 @@ P 4475 6725
 F 0 "R27" V 4351 6725 20  0000 C CNN
 F 1 "330" V 4394 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 4475 6725 50  0001 C CNN
-F 3 "~" H 4475 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 4475 6725 50  0001 C CNN
+F 4 "C120043" H 4475 6725 50  0001 C CNN "Field4"
 	1    4475 6725
 	0    1    1    0   
 $EndComp
@@ -2497,7 +2543,7 @@ P 5275 6725
 F 0 "LED28" H 5275 6875 20  0000 C CNN
 F 1 "LED" H 5275 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 6725 50  0001 C CNN
-F 3 "" H 5275 6725 50  0001 C CNN
+F 3 "~" H 5275 6725 50  0001 C CNN
 	1    5275 6725
 	1    0    0    -1  
 $EndComp
@@ -2508,7 +2554,8 @@ P 5025 6725
 F 0 "R28" V 4901 6725 20  0000 C CNN
 F 1 "330" V 4944 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5025 6725 50  0001 C CNN
-F 3 "~" H 5025 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5025 6725 50  0001 C CNN
+F 4 "C120043" H 5025 6725 50  0001 C CNN "Field4"
 	1    5025 6725
 	0    1    1    0   
 $EndComp
@@ -2523,7 +2570,7 @@ P 5825 6725
 F 0 "LED29" H 5825 6875 20  0000 C CNN
 F 1 "LED" H 5825 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 6725 50  0001 C CNN
-F 3 "" H 5825 6725 50  0001 C CNN
+F 3 "~" H 5825 6725 50  0001 C CNN
 	1    5825 6725
 	1    0    0    -1  
 $EndComp
@@ -2534,7 +2581,8 @@ P 5575 6725
 F 0 "R29" V 5451 6725 20  0000 C CNN
 F 1 "330" V 5494 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5575 6725 50  0001 C CNN
-F 3 "~" H 5575 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5575 6725 50  0001 C CNN
+F 4 "C120043" H 5575 6725 50  0001 C CNN "Field4"
 	1    5575 6725
 	0    1    1    0   
 $EndComp
@@ -2549,7 +2597,7 @@ P 6375 6725
 F 0 "LED30" H 6375 6875 20  0000 C CNN
 F 1 "LED" H 6375 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 6725 50  0001 C CNN
-F 3 "" H 6375 6725 50  0001 C CNN
+F 3 "~" H 6375 6725 50  0001 C CNN
 	1    6375 6725
 	1    0    0    -1  
 $EndComp
@@ -2560,7 +2608,8 @@ P 6125 6725
 F 0 "R30" V 6001 6725 20  0000 C CNN
 F 1 "330" V 6044 6725 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 6125 6725 50  0001 C CNN
-F 3 "~" H 6125 6725 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 6125 6725 50  0001 C CNN
+F 4 "C120043" H 6125 6725 50  0001 C CNN "Field4"
 	1    6125 6725
 	0    1    1    0   
 $EndComp
@@ -2575,7 +2624,7 @@ P 1425 7150
 F 0 "LED31" H 1425 7300 20  0000 C CNN
 F 1 "LED" H 1425 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 7150 50  0001 C CNN
-F 3 "" H 1425 7150 50  0001 C CNN
+F 3 "~" H 1425 7150 50  0001 C CNN
 	1    1425 7150
 	1    0    0    -1  
 $EndComp
@@ -2586,7 +2635,8 @@ P 1175 7150
 F 0 "R31" V 1051 7150 20  0000 C CNN
 F 1 "330" V 1094 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1175 7150 50  0001 C CNN
-F 3 "~" H 1175 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1175 7150 50  0001 C CNN
+F 4 "C120043" H 1175 7150 50  0001 C CNN "Field4"
 	1    1175 7150
 	0    1    1    0   
 $EndComp
@@ -2601,7 +2651,7 @@ P 1975 7150
 F 0 "LED32" H 1975 7300 20  0000 C CNN
 F 1 "LED" H 1975 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 7150 50  0001 C CNN
-F 3 "" H 1975 7150 50  0001 C CNN
+F 3 "~" H 1975 7150 50  0001 C CNN
 	1    1975 7150
 	1    0    0    -1  
 $EndComp
@@ -2612,7 +2662,8 @@ P 1725 7150
 F 0 "R32" V 1601 7150 20  0000 C CNN
 F 1 "330" V 1644 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1725 7150 50  0001 C CNN
-F 3 "~" H 1725 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1725 7150 50  0001 C CNN
+F 4 "C120043" H 1725 7150 50  0001 C CNN "Field4"
 	1    1725 7150
 	0    1    1    0   
 $EndComp
@@ -2627,7 +2678,8 @@ P 2275 7150
 F 0 "R33" V 2151 7150 20  0000 C CNN
 F 1 "330" V 2194 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2275 7150 50  0001 C CNN
-F 3 "~" H 2275 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2275 7150 50  0001 C CNN
+F 4 "C120043" H 2275 7150 50  0001 C CNN "Field4"
 	1    2275 7150
 	0    1    1    0   
 $EndComp
@@ -2642,7 +2694,7 @@ P 3075 7150
 F 0 "LED34" H 3075 7300 20  0000 C CNN
 F 1 "LED" H 3075 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 7150 50  0001 C CNN
-F 3 "" H 3075 7150 50  0001 C CNN
+F 3 "~" H 3075 7150 50  0001 C CNN
 	1    3075 7150
 	1    0    0    -1  
 $EndComp
@@ -2657,7 +2709,7 @@ P 3625 7150
 F 0 "LED35" H 3625 7300 20  0000 C CNN
 F 1 "LED" H 3625 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 7150 50  0001 C CNN
-F 3 "" H 3625 7150 50  0001 C CNN
+F 3 "~" H 3625 7150 50  0001 C CNN
 	1    3625 7150
 	1    0    0    -1  
 $EndComp
@@ -2668,7 +2720,8 @@ P 3375 7150
 F 0 "R35" V 3251 7150 20  0000 C CNN
 F 1 "330" V 3294 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3375 7150 50  0001 C CNN
-F 3 "~" H 3375 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3375 7150 50  0001 C CNN
+F 4 "C120043" H 3375 7150 50  0001 C CNN "Field4"
 	1    3375 7150
 	0    1    1    0   
 $EndComp
@@ -2683,7 +2736,8 @@ P 3925 7150
 F 0 "R36" V 3801 7150 20  0000 C CNN
 F 1 "330" V 3844 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3925 7150 50  0001 C CNN
-F 3 "~" H 3925 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3925 7150 50  0001 C CNN
+F 4 "C120043" H 3925 7150 50  0001 C CNN "Field4"
 	1    3925 7150
 	0    1    1    0   
 $EndComp
@@ -2698,7 +2752,7 @@ P 4725 7150
 F 0 "LED37" H 4725 7300 20  0000 C CNN
 F 1 "LED" H 4725 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 7150 50  0001 C CNN
-F 3 "" H 4725 7150 50  0001 C CNN
+F 3 "~" H 4725 7150 50  0001 C CNN
 	1    4725 7150
 	1    0    0    -1  
 $EndComp
@@ -2713,7 +2767,7 @@ P 5275 7150
 F 0 "LED38" H 5275 7300 20  0000 C CNN
 F 1 "LED" H 5275 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 7150 50  0001 C CNN
-F 3 "" H 5275 7150 50  0001 C CNN
+F 3 "~" H 5275 7150 50  0001 C CNN
 	1    5275 7150
 	1    0    0    -1  
 $EndComp
@@ -2724,7 +2778,8 @@ P 5025 7150
 F 0 "R38" V 4901 7150 20  0000 C CNN
 F 1 "330" V 4944 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5025 7150 50  0001 C CNN
-F 3 "~" H 5025 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5025 7150 50  0001 C CNN
+F 4 "C120043" H 5025 7150 50  0001 C CNN "Field4"
 	1    5025 7150
 	0    1    1    0   
 $EndComp
@@ -2739,7 +2794,7 @@ P 5825 7150
 F 0 "LED39" H 5825 7300 20  0000 C CNN
 F 1 "LED" H 5825 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 7150 50  0001 C CNN
-F 3 "" H 5825 7150 50  0001 C CNN
+F 3 "~" H 5825 7150 50  0001 C CNN
 	1    5825 7150
 	1    0    0    -1  
 $EndComp
@@ -2750,7 +2805,8 @@ P 5575 7150
 F 0 "R39" V 5451 7150 20  0000 C CNN
 F 1 "330" V 5494 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5575 7150 50  0001 C CNN
-F 3 "~" H 5575 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5575 7150 50  0001 C CNN
+F 4 "C120043" H 5575 7150 50  0001 C CNN "Field4"
 	1    5575 7150
 	0    1    1    0   
 $EndComp
@@ -2765,7 +2821,7 @@ P 6375 7150
 F 0 "LED40" H 6375 7300 20  0000 C CNN
 F 1 "LED" H 6375 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 7150 50  0001 C CNN
-F 3 "" H 6375 7150 50  0001 C CNN
+F 3 "~" H 6375 7150 50  0001 C CNN
 	1    6375 7150
 	1    0    0    -1  
 $EndComp
@@ -2776,7 +2832,8 @@ P 6125 7150
 F 0 "R40" V 6001 7150 20  0000 C CNN
 F 1 "330" V 6044 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 6125 7150 50  0001 C CNN
-F 3 "~" H 6125 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 6125 7150 50  0001 C CNN
+F 4 "C120043" H 6125 7150 50  0001 C CNN "Field4"
 	1    6125 7150
 	0    1    1    0   
 $EndComp
@@ -2787,7 +2844,7 @@ P 1425 7575
 F 0 "LED41" H 1425 7725 20  0000 C CNN
 F 1 "LED" H 1425 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 7575 50  0001 C CNN
-F 3 "" H 1425 7575 50  0001 C CNN
+F 3 "~" H 1425 7575 50  0001 C CNN
 	1    1425 7575
 	1    0    0    -1  
 $EndComp
@@ -2798,7 +2855,8 @@ P 1175 7575
 F 0 "R41" V 1051 7575 20  0000 C CNN
 F 1 "330" V 1094 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1175 7575 50  0001 C CNN
-F 3 "~" H 1175 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1175 7575 50  0001 C CNN
+F 4 "C120043" H 1175 7575 50  0001 C CNN "Field4"
 	1    1175 7575
 	0    1    1    0   
 $EndComp
@@ -2809,7 +2867,7 @@ P 1975 7575
 F 0 "LED42" H 1975 7725 20  0000 C CNN
 F 1 "LED" H 1975 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 7575 50  0001 C CNN
-F 3 "" H 1975 7575 50  0001 C CNN
+F 3 "~" H 1975 7575 50  0001 C CNN
 	1    1975 7575
 	1    0    0    -1  
 $EndComp
@@ -2820,7 +2878,8 @@ P 1725 7575
 F 0 "R42" V 1601 7575 20  0000 C CNN
 F 1 "330" V 1644 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 1725 7575 50  0001 C CNN
-F 3 "~" H 1725 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 1725 7575 50  0001 C CNN
+F 4 "C120043" H 1725 7575 50  0001 C CNN "Field4"
 	1    1725 7575
 	0    1    1    0   
 $EndComp
@@ -2831,7 +2890,7 @@ P 2525 7575
 F 0 "LED43" H 2525 7725 20  0000 C CNN
 F 1 "LED" H 2525 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 7575 50  0001 C CNN
-F 3 "" H 2525 7575 50  0001 C CNN
+F 3 "~" H 2525 7575 50  0001 C CNN
 	1    2525 7575
 	1    0    0    -1  
 $EndComp
@@ -2842,7 +2901,8 @@ P 2275 7575
 F 0 "R43" V 2151 7575 20  0000 C CNN
 F 1 "330" V 2194 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2275 7575 50  0001 C CNN
-F 3 "~" H 2275 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2275 7575 50  0001 C CNN
+F 4 "C120043" H 2275 7575 50  0001 C CNN "Field4"
 	1    2275 7575
 	0    1    1    0   
 $EndComp
@@ -2853,7 +2913,7 @@ P 3075 7575
 F 0 "LED44" H 3075 7725 20  0000 C CNN
 F 1 "LED" H 3075 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 7575 50  0001 C CNN
-F 3 "" H 3075 7575 50  0001 C CNN
+F 3 "~" H 3075 7575 50  0001 C CNN
 	1    3075 7575
 	1    0    0    -1  
 $EndComp
@@ -2864,7 +2924,8 @@ P 2825 7575
 F 0 "R44" V 2701 7575 20  0000 C CNN
 F 1 "330" V 2744 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2825 7575 50  0001 C CNN
-F 3 "~" H 2825 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2825 7575 50  0001 C CNN
+F 4 "C120043" H 2825 7575 50  0001 C CNN "Field4"
 	1    2825 7575
 	0    1    1    0   
 $EndComp
@@ -2875,7 +2936,7 @@ P 3625 7575
 F 0 "LED45" H 3625 7725 20  0000 C CNN
 F 1 "LED" H 3625 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 7575 50  0001 C CNN
-F 3 "" H 3625 7575 50  0001 C CNN
+F 3 "~" H 3625 7575 50  0001 C CNN
 	1    3625 7575
 	1    0    0    -1  
 $EndComp
@@ -2886,7 +2947,8 @@ P 3375 7575
 F 0 "R45" V 3251 7575 20  0000 C CNN
 F 1 "330" V 3294 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3375 7575 50  0001 C CNN
-F 3 "~" H 3375 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3375 7575 50  0001 C CNN
+F 4 "C120043" H 3375 7575 50  0001 C CNN "Field4"
 	1    3375 7575
 	0    1    1    0   
 $EndComp
@@ -2897,7 +2959,7 @@ P 4175 7575
 F 0 "LED46" H 4175 7725 20  0000 C CNN
 F 1 "LED" H 4175 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 7575 50  0001 C CNN
-F 3 "" H 4175 7575 50  0001 C CNN
+F 3 "~" H 4175 7575 50  0001 C CNN
 	1    4175 7575
 	1    0    0    -1  
 $EndComp
@@ -2908,7 +2970,8 @@ P 3925 7575
 F 0 "R46" V 3801 7575 20  0000 C CNN
 F 1 "330" V 3844 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 3925 7575 50  0001 C CNN
-F 3 "~" H 3925 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 3925 7575 50  0001 C CNN
+F 4 "C120043" H 3925 7575 50  0001 C CNN "Field4"
 	1    3925 7575
 	0    1    1    0   
 $EndComp
@@ -2919,7 +2982,7 @@ P 4725 7575
 F 0 "LED47" H 4725 7725 20  0000 C CNN
 F 1 "LED" H 4725 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 7575 50  0001 C CNN
-F 3 "" H 4725 7575 50  0001 C CNN
+F 3 "~" H 4725 7575 50  0001 C CNN
 	1    4725 7575
 	1    0    0    -1  
 $EndComp
@@ -2930,7 +2993,8 @@ P 4475 7575
 F 0 "R47" V 4351 7575 20  0000 C CNN
 F 1 "330" V 4394 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 4475 7575 50  0001 C CNN
-F 3 "~" H 4475 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 4475 7575 50  0001 C CNN
+F 4 "C120043" H 4475 7575 50  0001 C CNN "Field4"
 	1    4475 7575
 	0    1    1    0   
 $EndComp
@@ -2941,7 +3005,7 @@ P 5275 7575
 F 0 "LED48" H 5275 7725 20  0000 C CNN
 F 1 "LED" H 5275 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 7575 50  0001 C CNN
-F 3 "" H 5275 7575 50  0001 C CNN
+F 3 "~" H 5275 7575 50  0001 C CNN
 	1    5275 7575
 	1    0    0    -1  
 $EndComp
@@ -2952,7 +3016,8 @@ P 5025 7575
 F 0 "R48" V 4901 7575 20  0000 C CNN
 F 1 "330" V 4944 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5025 7575 50  0001 C CNN
-F 3 "~" H 5025 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5025 7575 50  0001 C CNN
+F 4 "C120043" H 5025 7575 50  0001 C CNN "Field4"
 	1    5025 7575
 	0    1    1    0   
 $EndComp
@@ -2963,7 +3028,7 @@ P 5825 7575
 F 0 "LED49" H 5825 7725 20  0000 C CNN
 F 1 "LED" H 5825 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 7575 50  0001 C CNN
-F 3 "" H 5825 7575 50  0001 C CNN
+F 3 "~" H 5825 7575 50  0001 C CNN
 	1    5825 7575
 	1    0    0    -1  
 $EndComp
@@ -2974,7 +3039,8 @@ P 5575 7575
 F 0 "R49" V 5451 7575 20  0000 C CNN
 F 1 "330" V 5494 7575 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 5575 7575 50  0001 C CNN
-F 3 "~" H 5575 7575 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 5575 7575 50  0001 C CNN
+F 4 "C120043" H 5575 7575 50  0001 C CNN "Field4"
 	1    5575 7575
 	0    1    1    0   
 $EndComp
@@ -3172,14 +3238,6 @@ Wire Notes Line
 Wire Notes Line
 	1075 5525 1075 5375
 Wire Notes Line
-	9175 7250 9175 7925
-Wire Notes Line
-	9175 7925 6850 7925
-Wire Notes Line
-	6850 7250 9175 7250
-Wire Notes Line
-	6850 7925 6850 7250
-Wire Notes Line
 	11875 6650 11875 5375
 Wire Notes Line
 	13400 5375 13400 6650
@@ -3196,7 +3254,8 @@ P 12400 5950
 F 0 "R50" V 12204 5950 50  0000 C CNN
 F 1 "100" V 12295 5950 50  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 12400 5950 50  0001 C CNN
-F 3 "~" H 12400 5950 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311114_CCO-Chian-Chia-Elec-CF1-4W-100R-5-T52_C120031.pdf" H 12400 5950 50  0001 C CNN
+F 4 "C120031" H 12400 5950 50  0001 C CNN "Field4"
 	1    12400 5950
 	0    1    1    0   
 $EndComp
@@ -3211,7 +3270,8 @@ P 12525 6125
 F 0 "R51" H 12466 6079 50  0000 R CNN
 F 1 "10k" H 12466 6170 50  0000 R CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 12525 6125 50  0001 C CNN
-F 3 "~" H 12525 6125 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311116_CCO-Chian-Chia-Elec-CF1-2W-10KR-5-T52_C120262.pdf" H 12525 6125 50  0001 C CNN
+F 4 "C120262" H 12525 6125 50  0001 C CNN "Field4"
 	1    12525 6125
 	-1   0    0    1   
 $EndComp
@@ -3252,7 +3312,7 @@ P 4175 7150
 F 0 "LED36" H 4175 7300 20  0000 C CNN
 F 1 "LED" H 4175 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 7150 50  0001 C CNN
-F 3 "" H 4175 7150 50  0001 C CNN
+F 3 "~" H 4175 7150 50  0001 C CNN
 	1    4175 7150
 	1    0    0    -1  
 $EndComp
@@ -3263,7 +3323,8 @@ P 4475 7150
 F 0 "R37" V 4351 7150 20  0000 C CNN
 F 1 "330" V 4394 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 4475 7150 50  0001 C CNN
-F 3 "~" H 4475 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 4475 7150 50  0001 C CNN
+F 4 "C120043" H 4475 7150 50  0001 C CNN "Field4"
 	1    4475 7150
 	0    1    1    0   
 $EndComp
@@ -3274,7 +3335,7 @@ P 2525 7150
 F 0 "LED33" H 2525 7300 20  0000 C CNN
 F 1 "LED" H 2525 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 7150 50  0001 C CNN
-F 3 "" H 2525 7150 50  0001 C CNN
+F 3 "~" H 2525 7150 50  0001 C CNN
 	1    2525 7150
 	1    0    0    -1  
 $EndComp
@@ -3285,7 +3346,8 @@ P 2825 7150
 F 0 "R34" V 2701 7150 20  0000 C CNN
 F 1 "330" V 2744 7150 20  0000 C CNN
 F 2 "AcheronLibrary_COM:R_THT_5.08mm_Horizontal" H 2825 7150 50  0001 C CNN
-F 3 "~" H 2825 7150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810311124_CCO-Chian-Chia-Elec-CF1-4W-330R-5-T52_C120043.pdf" H 2825 7150 50  0001 C CNN
+F 4 "C120043" H 2825 7150 50  0001 C CNN "Field4"
 	1    2825 7150
 	0    1    1    0   
 $EndComp
@@ -3307,7 +3369,8 @@ P 9800 6075
 F 0 "J1" H 9857 6542 50  0000 C CNN
 F 1 "USB_B_Micro" H 9857 6451 50  0000 C CNN
 F 2 "AcheronLibrary_CONN:USB_MiniB_XM7D-0512" H 9950 6025 50  0001 C CNN
-F 3 "~" H 9950 6025 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1811131821_Jing-Extension-of-the-Electronic-Co-C46398_C46398.pdf" H 9950 6025 50  0001 C CNN
+F 4 "C46398" H 9800 6075 50  0001 C CNN "Field4"
 	1    9800 6075
 	1    0    0    -1  
 $EndComp
@@ -3330,7 +3393,8 @@ P 12775 5950
 F 0 "Q1" H 12981 5996 50  0000 L CNN
 F 1 "2N7002E" H 12981 5905 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 12975 5875 50  0001 L CIN
-F 3 "http://www.diodes.com/assets/Datasheets/ds30376.pdf" H 12775 5950 50  0001 L CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1811021222_AnBon-2N7002E_C193021.pdf" H 12775 5950 50  0001 L CNN
+F 4 "C193021" H 12775 5950 50  0001 C CNN "Field4"
 	1    12775 5950
 	1    0    0    -1  
 $EndComp
@@ -3365,8 +3429,8 @@ P 8050 6400
 F 0 "B1" H 8050 7204 45  0000 C CNN
 F 1 "SPARKFUN_PRO_MICRO" H 8050 7120 45  0000 C CNN
 F 2 "SPARKFUN_PRO_MICRO" H 8050 7200 20  0001 C CNN
-F 3 "" H 8050 6400 50  0001 C CNN
-F 4 "XXX-00000" H 8050 7131 60  0001 C CNN "Field4"
+F 3 "https://cdn.sparkfun.com/assets/f/d/8/0/d/ProMicro16MHzv2.pdf" H 8050 6400 50  0001 C CNN
+F 4 "" H 8050 7131 60  0001 C CNN "Field4"
 	1    8050 6400
 	1    0    0    -1  
 $EndComp

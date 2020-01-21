@@ -2,7 +2,7 @@
   <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
 </p>
 
-**Status:** Prototypes in and making final minor adjustments
+**Status:** Switch Matrix is working, waiting on LED parts to test
 
 ## Introduction
 
@@ -30,7 +30,7 @@ If using LEDs:
 
 ## Layout
 
-![KLE Layout Render](https://github.com/EvvL/Simple49/raw/master/Graphics/KLE.png)
+![KLE Layout Render](https://github.com/EvvL/Alchemy49/raw/master/Graphics/KLE.png)
 
 Layout Render by [KLE-Render](http://kle-render.herokuapp.com/)
 
@@ -42,8 +42,12 @@ Click [this link](http://www.keyboard-layout-editor.com/#/gists/9abd5a1e1122fe68
 For now QMK is currently supported via [KBFirmware.com](https://kbfirmware.com/). Just upload the included 
 [Configuration/kbfirmware.json](https://github.com/EvvL/Alchemy49/raw/master/Configuration/kbfirmware.json) into 
 the site, tweak the layout to your liking and compile. The resulting hex file should be flashable using 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases), [AVRDUDESS](https://github.com/zkemble/AVRDUDESS) or 
-[AVRDUDE](http://www.nongnu.org/avrdude/).
+[AVRDUDESS](https://github.com/zkemble/AVRDUDESS) or [AVRDUDE](http://www.nongnu.org/avrdude/).
+
+If you don't want to adjust anything you can use the [included prebuilt hex file](https://github.com/EvvL/Alchemy49/raw/master/Configuration/alchemy49.hex) 
+with all the same configuration as the stock MagicForce49 layout.
+
+![AVRDUDESS Settings](https://github.com/EvvL/Alchemy49/raw/master/Graphics/AVRDUDESS.png)
 
 
 ## Renders
