@@ -6,8 +6,8 @@
 
 ## Introduction
 
-The Alchemy49 is a replacement pcb for the Magicforce 49 supporting LEDs, PCB mounted stabilizers and QMK. 
-It's built around the SparkFun Pro Micro and designed to be easy to put together and solder using only one 
+The Alchemy49 is a replacement pcb for the Magicforce 49 supporting south facing Switches, LEDs, PCB mounted stabilizers 
+and QMK. It's built around the SparkFun Pro Micro and designed to be easy to put together and solder using only one 
 surface mount component. 
 
 
