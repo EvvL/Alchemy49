@@ -65,4 +65,4 @@ PCB Renders by [Tracespace](https://tracespace.io/view/)
 
 This project is licensed under the [Acheron Open-Source Hardware License V1.2](https://github.com/EvvL/Alchemy49/blob/master/LICENSE.md)
 
-OSHWA Certification: [https://certification.oshwa.org/us000215.html](US000215)
+OSHWA Certification: [US000215](https://certification.oshwa.org/us000215.html)
