@@ -1,8 +1,10 @@
 <p align="center">
   <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/Logo.png"  width="419"> 
+  <br>
+  <img align="middle" src="https://github.com/EvvL/Alchemy49/raw/master/Graphics/OSHWA-US000215.png"  width="100"> 
 </p>
 
-**Status:** Switch Matrix is working, waiting on LED parts to test
+**Status:** Switch Matrix is working, testing led support
 
 ## Introduction
 
@@ -62,3 +64,5 @@ PCB Renders by [Tracespace](https://tracespace.io/view/)
 ## Copyright and Licensing
 
 This project is licensed under the [Acheron Open-Source Hardware License V1.2](https://github.com/EvvL/Alchemy49/blob/master/LICENSE.md)
+
+OSHWA Certification: [https://certification.oshwa.org/us000215.html](US000215)) 
