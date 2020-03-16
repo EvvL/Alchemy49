@@ -1810,7 +1810,7 @@ F 1 "LED" H 1425 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 5875 50  0001 C CNN
 F 3 "~" H 1425 5875 50  0001 C CNN
 	1    1425 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R1
@@ -1831,8 +1831,6 @@ Wire Notes Line
 Wire Notes Line
 	6850 5375 9175 5375
 Wire Wire Line
-	1575 5875 1575 6300
-Wire Wire Line
 	1075 5875 1075 6300
 $Comp
 L AcheronLibrary:LED LED2
@@ -1843,7 +1841,7 @@ F 1 "LED" H 1975 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 5875 50  0001 C CNN
 F 3 "~" H 1975 5875 50  0001 C CNN
 	1    1975 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R2
@@ -1858,8 +1856,6 @@ F 4 "C120043" H 1725 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2125 5875 2125 6300
-Wire Wire Line
 	1625 5875 1625 6300
 $Comp
 L AcheronLibrary:LED LED3
@@ -1870,7 +1866,7 @@ F 1 "LED" H 2525 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 5875 50  0001 C CNN
 F 3 "~" H 2525 5875 50  0001 C CNN
 	1    2525 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R3
@@ -1885,8 +1881,6 @@ F 4 "C120043" H 2275 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2675 5875 2675 6300
-Wire Wire Line
 	2175 5875 2175 6300
 $Comp
 L AcheronLibrary:LED LED4
@@ -1897,7 +1891,7 @@ F 1 "LED" H 3075 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 5875 50  0001 C CNN
 F 3 "~" H 3075 5875 50  0001 C CNN
 	1    3075 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R4
@@ -1912,8 +1906,6 @@ F 4 "C120043" H 2825 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3225 5875 3225 6300
-Wire Wire Line
 	2725 5875 2725 6300
 $Comp
 L AcheronLibrary:LED LED5
@@ -1924,7 +1916,7 @@ F 1 "LED" H 3625 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 5875 50  0001 C CNN
 F 3 "~" H 3625 5875 50  0001 C CNN
 	1    3625 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R5
@@ -1939,8 +1931,6 @@ F 4 "C120043" H 3375 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3775 5875 3775 6300
-Wire Wire Line
 	3275 5875 3275 6300
 $Comp
 L AcheronLibrary:LED LED6
@@ -1951,7 +1941,7 @@ F 1 "LED" H 4175 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 5875 50  0001 C CNN
 F 3 "~" H 4175 5875 50  0001 C CNN
 	1    4175 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R6
@@ -1966,8 +1956,6 @@ F 4 "C120043" H 3925 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4325 5875 4325 6300
-Wire Wire Line
 	3825 5875 3825 6300
 $Comp
 L AcheronLibrary:LED LED7
@@ -1978,7 +1966,7 @@ F 1 "LED" H 4725 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 5875 50  0001 C CNN
 F 3 "~" H 4725 5875 50  0001 C CNN
 	1    4725 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R7
@@ -1993,8 +1981,6 @@ F 4 "C120043" H 4475 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4875 5875 4875 6300
-Wire Wire Line
 	4375 5875 4375 6300
 $Comp
 L AcheronLibrary:LED LED8
@@ -2005,7 +1991,7 @@ F 1 "LED" H 5275 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 5875 50  0001 C CNN
 F 3 "~" H 5275 5875 50  0001 C CNN
 	1    5275 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R8
@@ -2020,8 +2006,6 @@ F 4 "C120043" H 5025 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5425 5875 5425 6300
-Wire Wire Line
 	4925 5875 4925 6300
 $Comp
 L AcheronLibrary:LED LED9
@@ -2032,7 +2016,7 @@ F 1 "LED" H 5825 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 5875 50  0001 C CNN
 F 3 "~" H 5825 5875 50  0001 C CNN
 	1    5825 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R9
@@ -2047,8 +2031,6 @@ F 4 "C120043" H 5575 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5975 5875 5975 6300
-Wire Wire Line
 	5475 5875 5475 6300
 $Comp
 L AcheronLibrary:LED LED10
@@ -2059,7 +2041,7 @@ F 1 "LED" H 6375 6037 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 5875 50  0001 C CNN
 F 3 "~" H 6375 5875 50  0001 C CNN
 	1    6375 5875
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R10
@@ -2074,8 +2056,6 @@ F 4 "C120043" H 6125 5875 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6525 5875 6525 6300
-Wire Wire Line
 	6025 5875 6025 6300
 $Comp
 L AcheronLibrary:LED LED11
@@ -2086,7 +2066,7 @@ F 1 "LED" H 1425 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 6300 50  0001 C CNN
 F 3 "~" H 1425 6300 50  0001 C CNN
 	1    1425 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R11
@@ -2101,8 +2081,6 @@ F 4 "C120043" H 1175 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1575 6300 1575 6725
-Wire Wire Line
 	1075 6300 1075 6725
 $Comp
 L AcheronLibrary:LED LED12
@@ -2113,7 +2091,7 @@ F 1 "LED" H 1975 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 6300 50  0001 C CNN
 F 3 "~" H 1975 6300 50  0001 C CNN
 	1    1975 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R12
@@ -2128,8 +2106,6 @@ F 4 "C120043" H 1725 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2125 6300 2125 6725
-Wire Wire Line
 	1625 6300 1625 6725
 $Comp
 L AcheronLibrary:LED LED13
@@ -2140,7 +2116,7 @@ F 1 "LED" H 2525 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 6300 50  0001 C CNN
 F 3 "~" H 2525 6300 50  0001 C CNN
 	1    2525 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R13
@@ -2155,8 +2131,6 @@ F 4 "C120043" H 2275 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2675 6300 2675 6725
-Wire Wire Line
 	2175 6300 2175 6725
 $Comp
 L AcheronLibrary:LED LED14
@@ -2167,7 +2141,7 @@ F 1 "LED" H 3075 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 6300 50  0001 C CNN
 F 3 "~" H 3075 6300 50  0001 C CNN
 	1    3075 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R14
@@ -2182,8 +2156,6 @@ F 4 "C120043" H 2825 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3225 6300 3225 6725
-Wire Wire Line
 	2725 6300 2725 6725
 $Comp
 L AcheronLibrary:LED LED15
@@ -2194,7 +2166,7 @@ F 1 "LED" H 3625 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 6300 50  0001 C CNN
 F 3 "~" H 3625 6300 50  0001 C CNN
 	1    3625 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R15
@@ -2209,8 +2181,6 @@ F 4 "C120043" H 3375 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3775 6300 3775 6725
-Wire Wire Line
 	3275 6300 3275 6725
 $Comp
 L AcheronLibrary:LED LED16
@@ -2221,7 +2191,7 @@ F 1 "LED" H 4175 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 6300 50  0001 C CNN
 F 3 "~" H 4175 6300 50  0001 C CNN
 	1    4175 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R16
@@ -2236,8 +2206,6 @@ F 4 "C120043" H 3925 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4325 6300 4325 6725
-Wire Wire Line
 	3825 6300 3825 6725
 $Comp
 L AcheronLibrary:LED LED17
@@ -2248,7 +2216,7 @@ F 1 "LED" H 4725 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 6300 50  0001 C CNN
 F 3 "~" H 4725 6300 50  0001 C CNN
 	1    4725 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R17
@@ -2263,8 +2231,6 @@ F 4 "C120043" H 4475 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4875 6300 4875 6725
-Wire Wire Line
 	4375 6300 4375 6725
 $Comp
 L AcheronLibrary:LED LED18
@@ -2275,7 +2241,7 @@ F 1 "LED" H 5275 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 6300 50  0001 C CNN
 F 3 "~" H 5275 6300 50  0001 C CNN
 	1    5275 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R18
@@ -2290,8 +2256,6 @@ F 4 "C120043" H 5025 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5425 6300 5425 6725
-Wire Wire Line
 	4925 6300 4925 6725
 $Comp
 L AcheronLibrary:LED LED19
@@ -2302,7 +2266,7 @@ F 1 "LED" H 5825 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 6300 50  0001 C CNN
 F 3 "~" H 5825 6300 50  0001 C CNN
 	1    5825 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R19
@@ -2317,8 +2281,6 @@ F 4 "C120043" H 5575 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5975 6300 5975 6725
-Wire Wire Line
 	5475 6300 5475 6725
 $Comp
 L AcheronLibrary:LED LED20
@@ -2329,7 +2291,7 @@ F 1 "LED" H 6375 6462 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 6300 50  0001 C CNN
 F 3 "~" H 6375 6300 50  0001 C CNN
 	1    6375 6300
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R20
@@ -2344,8 +2306,6 @@ F 4 "C120043" H 6125 6300 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6525 6300 6525 6725
-Wire Wire Line
 	6025 6300 6025 6725
 $Comp
 L AcheronLibrary:LED LED21
@@ -2356,7 +2316,7 @@ F 1 "LED" H 1425 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 6725 50  0001 C CNN
 F 3 "~" H 1425 6725 50  0001 C CNN
 	1    1425 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R21
@@ -2371,8 +2331,6 @@ F 4 "C120043" H 1175 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1575 6725 1575 7150
-Wire Wire Line
 	1075 6725 1075 7150
 $Comp
 L AcheronLibrary:LED LED22
@@ -2383,7 +2341,7 @@ F 1 "LED" H 1975 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 6725 50  0001 C CNN
 F 3 "~" H 1975 6725 50  0001 C CNN
 	1    1975 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R22
@@ -2398,8 +2356,6 @@ F 4 "C120043" H 1725 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2125 6725 2125 7150
-Wire Wire Line
 	1625 6725 1625 7150
 $Comp
 L AcheronLibrary:LED LED23
@@ -2410,7 +2366,7 @@ F 1 "LED" H 2525 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 6725 50  0001 C CNN
 F 3 "~" H 2525 6725 50  0001 C CNN
 	1    2525 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R23
@@ -2425,8 +2381,6 @@ F 4 "C120043" H 2275 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2675 6725 2675 7150
-Wire Wire Line
 	2175 6725 2175 7150
 $Comp
 L AcheronLibrary:LED LED24
@@ -2437,7 +2391,7 @@ F 1 "LED" H 3075 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 6725 50  0001 C CNN
 F 3 "~" H 3075 6725 50  0001 C CNN
 	1    3075 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R24
@@ -2452,8 +2406,6 @@ F 4 "C120043" H 2825 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3225 6725 3225 7150
-Wire Wire Line
 	2725 6725 2725 7150
 $Comp
 L AcheronLibrary:LED LED25
@@ -2464,7 +2416,7 @@ F 1 "LED" H 3625 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 6725 50  0001 C CNN
 F 3 "~" H 3625 6725 50  0001 C CNN
 	1    3625 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R25
@@ -2479,8 +2431,6 @@ F 4 "C120043" H 3375 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3775 6725 3775 7150
-Wire Wire Line
 	3275 6725 3275 7150
 $Comp
 L AcheronLibrary:LED LED26
@@ -2491,7 +2441,7 @@ F 1 "LED" H 4175 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 6725 50  0001 C CNN
 F 3 "~" H 4175 6725 50  0001 C CNN
 	1    4175 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R26
@@ -2506,8 +2456,6 @@ F 4 "C120043" H 3925 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4325 6725 4325 7150
-Wire Wire Line
 	3825 6725 3825 7150
 $Comp
 L AcheronLibrary:LED LED27
@@ -2518,7 +2466,7 @@ F 1 "LED" H 4725 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 6725 50  0001 C CNN
 F 3 "~" H 4725 6725 50  0001 C CNN
 	1    4725 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R27
@@ -2533,8 +2481,6 @@ F 4 "C120043" H 4475 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4875 6725 4875 7150
-Wire Wire Line
 	4375 6725 4375 7150
 $Comp
 L AcheronLibrary:LED LED28
@@ -2545,7 +2491,7 @@ F 1 "LED" H 5275 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 6725 50  0001 C CNN
 F 3 "~" H 5275 6725 50  0001 C CNN
 	1    5275 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R28
@@ -2560,8 +2506,6 @@ F 4 "C120043" H 5025 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5425 6725 5425 7150
-Wire Wire Line
 	4925 6725 4925 7150
 $Comp
 L AcheronLibrary:LED LED29
@@ -2572,7 +2516,7 @@ F 1 "LED" H 5825 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 6725 50  0001 C CNN
 F 3 "~" H 5825 6725 50  0001 C CNN
 	1    5825 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R29
@@ -2587,8 +2531,6 @@ F 4 "C120043" H 5575 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5975 6725 5975 7150
-Wire Wire Line
 	5475 6725 5475 7150
 $Comp
 L AcheronLibrary:LED LED30
@@ -2599,7 +2541,7 @@ F 1 "LED" H 6375 6887 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 6725 50  0001 C CNN
 F 3 "~" H 6375 6725 50  0001 C CNN
 	1    6375 6725
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R30
@@ -2614,8 +2556,6 @@ F 4 "C120043" H 6125 6725 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6525 6725 6525 7150
-Wire Wire Line
 	6025 6725 6025 7150
 $Comp
 L AcheronLibrary:LED LED31
@@ -2626,7 +2566,7 @@ F 1 "LED" H 1425 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 7150 50  0001 C CNN
 F 3 "~" H 1425 7150 50  0001 C CNN
 	1    1425 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R31
@@ -2641,8 +2581,6 @@ F 4 "C120043" H 1175 7150 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1575 7150 1575 7575
-Wire Wire Line
 	1075 7150 1075 7575
 $Comp
 L AcheronLibrary:LED LED32
@@ -2653,7 +2591,7 @@ F 1 "LED" H 1975 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 7150 50  0001 C CNN
 F 3 "~" H 1975 7150 50  0001 C CNN
 	1    1975 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R32
@@ -2667,8 +2605,6 @@ F 4 "C120043" H 1725 7150 50  0001 C CNN "Field4"
 	1    1725 7150
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	2125 7150 2125 7575
 Wire Wire Line
 	1625 7150 1625 7575
 $Comp
@@ -2684,8 +2620,6 @@ F 4 "C120043" H 2275 7150 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2675 7150 2675 7575
-Wire Wire Line
 	2175 7150 2175 7575
 $Comp
 L AcheronLibrary:LED LED34
@@ -2696,10 +2630,8 @@ F 1 "LED" H 3075 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 7150 50  0001 C CNN
 F 3 "~" H 3075 7150 50  0001 C CNN
 	1    3075 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	3225 7150 3225 7575
 Wire Wire Line
 	2725 7150 2725 7575
 $Comp
@@ -2711,7 +2643,7 @@ F 1 "LED" H 3625 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 7150 50  0001 C CNN
 F 3 "~" H 3625 7150 50  0001 C CNN
 	1    3625 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R35
@@ -2725,8 +2657,6 @@ F 4 "C120043" H 3375 7150 50  0001 C CNN "Field4"
 	1    3375 7150
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	3775 7150 3775 7575
 Wire Wire Line
 	3275 7150 3275 7575
 $Comp
@@ -2742,8 +2672,6 @@ F 4 "C120043" H 3925 7150 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4325 7150 4325 7575
-Wire Wire Line
 	3825 7150 3825 7575
 $Comp
 L AcheronLibrary:LED LED37
@@ -2754,10 +2682,8 @@ F 1 "LED" H 4725 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 7150 50  0001 C CNN
 F 3 "~" H 4725 7150 50  0001 C CNN
 	1    4725 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	4875 7150 4875 7575
 Wire Wire Line
 	4375 7150 4375 7575
 $Comp
@@ -2769,7 +2695,7 @@ F 1 "LED" H 5275 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 7150 50  0001 C CNN
 F 3 "~" H 5275 7150 50  0001 C CNN
 	1    5275 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R38
@@ -2784,8 +2710,6 @@ F 4 "C120043" H 5025 7150 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5425 7150 5425 7575
-Wire Wire Line
 	4925 7150 4925 7575
 $Comp
 L AcheronLibrary:LED LED39
@@ -2796,7 +2720,7 @@ F 1 "LED" H 5825 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 7150 50  0001 C CNN
 F 3 "~" H 5825 7150 50  0001 C CNN
 	1    5825 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R39
@@ -2811,8 +2735,6 @@ F 4 "C120043" H 5575 7150 50  0001 C CNN "Field4"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5975 7150 5975 7575
-Wire Wire Line
 	5475 7150 5475 7575
 $Comp
 L AcheronLibrary:LED LED40
@@ -2823,7 +2745,7 @@ F 1 "LED" H 6375 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 6375 7150 50  0001 C CNN
 F 3 "~" H 6375 7150 50  0001 C CNN
 	1    6375 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R40
@@ -2846,7 +2768,7 @@ F 1 "LED" H 1425 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1425 7575 50  0001 C CNN
 F 3 "~" H 1425 7575 50  0001 C CNN
 	1    1425 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R41
@@ -2869,7 +2791,7 @@ F 1 "LED" H 1975 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 1975 7575 50  0001 C CNN
 F 3 "~" H 1975 7575 50  0001 C CNN
 	1    1975 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R42
@@ -2892,7 +2814,7 @@ F 1 "LED" H 2525 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 7575 50  0001 C CNN
 F 3 "~" H 2525 7575 50  0001 C CNN
 	1    2525 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R43
@@ -2915,7 +2837,7 @@ F 1 "LED" H 3075 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3075 7575 50  0001 C CNN
 F 3 "~" H 3075 7575 50  0001 C CNN
 	1    3075 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R44
@@ -2938,7 +2860,7 @@ F 1 "LED" H 3625 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 3625 7575 50  0001 C CNN
 F 3 "~" H 3625 7575 50  0001 C CNN
 	1    3625 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R45
@@ -2961,7 +2883,7 @@ F 1 "LED" H 4175 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 7575 50  0001 C CNN
 F 3 "~" H 4175 7575 50  0001 C CNN
 	1    4175 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R46
@@ -2984,7 +2906,7 @@ F 1 "LED" H 4725 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4725 7575 50  0001 C CNN
 F 3 "~" H 4725 7575 50  0001 C CNN
 	1    4725 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R47
@@ -3007,7 +2929,7 @@ F 1 "LED" H 5275 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5275 7575 50  0001 C CNN
 F 3 "~" H 5275 7575 50  0001 C CNN
 	1    5275 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R48
@@ -3030,7 +2952,7 @@ F 1 "LED" H 5825 7737 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 5825 7575 50  0001 C CNN
 F 3 "~" H 5825 7575 50  0001 C CNN
 	1    5825 7575
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R49
@@ -3052,61 +2974,32 @@ LED
 Connection ~ 1075 6300
 Connection ~ 1075 6725
 Connection ~ 1075 7150
-Connection ~ 1575 6300
-Connection ~ 1575 6725
-Connection ~ 1575 7150
 Connection ~ 1625 6300
 Connection ~ 1625 6725
 Connection ~ 1625 7150
-Connection ~ 2125 6300
-Connection ~ 2125 6725
-Connection ~ 2125 7150
 Connection ~ 2175 6300
 Connection ~ 2175 6725
 Connection ~ 2175 7150
-Connection ~ 2675 6300
-Connection ~ 2675 6725
-Connection ~ 2675 7150
 Connection ~ 2725 6300
 Connection ~ 2725 6725
 Connection ~ 2725 7150
-Connection ~ 3225 6300
-Connection ~ 3225 6725
-Connection ~ 3225 7150
 Connection ~ 3275 6300
 Connection ~ 3275 6725
 Connection ~ 3275 7150
-Connection ~ 3775 6300
-Connection ~ 3775 6725
-Connection ~ 3775 7150
 Connection ~ 3825 6300
 Connection ~ 3825 6725
 Connection ~ 3825 7150
-Connection ~ 4325 6300
-Connection ~ 4325 6725
-Connection ~ 4325 7150
 Connection ~ 4375 6300
 Connection ~ 4375 6725
 Connection ~ 4375 7150
-Connection ~ 4875 6300
-Connection ~ 4875 6725
-Connection ~ 4875 7150
 Connection ~ 4925 6300
 Connection ~ 4925 6725
 Connection ~ 4925 7150
-Connection ~ 5425 6300
-Connection ~ 5425 6725
-Connection ~ 5425 7150
 Connection ~ 5475 6300
 Connection ~ 5475 6725
 Connection ~ 5475 7150
-Connection ~ 5975 6300
-Connection ~ 5975 6725
-Connection ~ 5975 7150
 Connection ~ 6025 6300
 Connection ~ 6025 6725
-Connection ~ 6525 6300
-Connection ~ 6525 6725
 Wire Wire Line
 	1000 5650 1075 5650
 Wire Wire Line
@@ -3164,48 +3057,25 @@ Wire Wire Line
 Connection ~ 5475 5650
 Connection ~ 6025 5875
 Wire Wire Line
-	1575 7800 1575 7575
-Wire Wire Line
 	1575 7800 2125 7800
 Wire Wire Line
-	2125 7800 2125 7575
-Connection ~ 2125 7575
-Wire Wire Line
 	2125 7800 2675 7800
-Wire Wire Line
-	2675 7800 2675 7575
 Connection ~ 2125 7800
-Connection ~ 2675 7575
 Wire Wire Line
 	2675 7800 3225 7800
-Wire Wire Line
-	3225 7800 3225 7575
 Connection ~ 2675 7800
-Connection ~ 3225 7575
 Wire Wire Line
 	3225 7800 3775 7800
-Wire Wire Line
-	3775 7800 3775 7575
 Connection ~ 3225 7800
-Connection ~ 3775 7575
 Wire Wire Line
 	3775 7800 4325 7800
-Wire Wire Line
-	4325 7800 4325 7575
 Connection ~ 3775 7800
-Connection ~ 4325 7575
 Wire Wire Line
 	4325 7800 4875 7800
-Wire Wire Line
-	4875 7800 4875 7575
 Connection ~ 4325 7800
-Connection ~ 4875 7575
 Wire Wire Line
 	4875 7800 5425 7800
-Wire Wire Line
-	5425 7800 5425 7575
 Connection ~ 4875 7800
-Connection ~ 5425 7575
 Wire Wire Line
 	5425 7800 5975 7800
 Wire Wire Line
@@ -3214,9 +3084,6 @@ Connection ~ 5425 7800
 Connection ~ 5975 7575
 Wire Wire Line
 	5975 7575 6525 7575
-Wire Wire Line
-	6525 7575 6525 7150
-Connection ~ 6525 7150
 Wire Wire Line
 	5975 7800 6025 7800
 Connection ~ 5975 7800
@@ -3230,7 +3097,6 @@ Wire Notes Line
 	575  7925 575  5375
 Wire Notes Line
 	575  5375 6750 5375
-Connection ~ 1575 7575
 Text Notes 600  5475 0    50   ~ 0
 LED Martrix
 Wire Notes Line
@@ -3314,7 +3180,7 @@ F 1 "LED" H 4175 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 4175 7150 50  0001 C CNN
 F 3 "~" H 4175 7150 50  0001 C CNN
 	1    4175 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R37
@@ -3337,7 +3203,7 @@ F 1 "LED" H 2525 7312 20  0001 C CNN
 F 2 "AcheronLibrary_COM:LED_THT_2.54mm" H 2525 7150 50  0001 C CNN
 F 3 "~" H 2525 7150 50  0001 C CNN
 	1    2525 7150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Small R34
@@ -3478,4 +3344,138 @@ F 3 "http://www.onsemi.com/pub/Collateral/FDS6630A-D.pdf" H 12675 5950 50  0001 
 	1    12775 5950
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1575 5875 1575 6300
+Connection ~ 1575 6300
+Wire Wire Line
+	1575 6300 1575 6725
+Connection ~ 1575 6725
+Wire Wire Line
+	1575 6725 1575 7150
+Connection ~ 1575 7150
+Wire Wire Line
+	1575 7150 1575 7575
+Connection ~ 1575 7575
+Wire Wire Line
+	1575 7575 1575 7800
+Connection ~ 2125 7575
+Wire Wire Line
+	2125 7575 2125 7800
+Connection ~ 2125 7150
+Wire Wire Line
+	2125 7150 2125 7575
+Connection ~ 2125 6725
+Wire Wire Line
+	2125 6725 2125 7150
+Wire Wire Line
+	2125 5875 2125 6300
+Connection ~ 2125 6300
+Wire Wire Line
+	2125 6300 2125 6725
+Wire Wire Line
+	2675 5875 2675 6300
+Connection ~ 2675 6300
+Wire Wire Line
+	2675 6300 2675 6725
+Connection ~ 2675 6725
+Wire Wire Line
+	2675 6725 2675 7150
+Connection ~ 2675 7150
+Wire Wire Line
+	2675 7150 2675 7575
+Connection ~ 2675 7575
+Wire Wire Line
+	2675 7575 2675 7800
+Connection ~ 3225 7575
+Wire Wire Line
+	3225 7575 3225 7800
+Connection ~ 3225 7150
+Wire Wire Line
+	3225 7150 3225 7575
+Connection ~ 3225 6725
+Wire Wire Line
+	3225 6725 3225 7150
+Wire Wire Line
+	3225 5875 3225 6300
+Connection ~ 3225 6300
+Wire Wire Line
+	3225 6300 3225 6725
+Wire Wire Line
+	3775 5875 3775 6300
+Connection ~ 3775 6300
+Wire Wire Line
+	3775 6300 3775 6725
+Connection ~ 3775 6725
+Wire Wire Line
+	3775 6725 3775 7150
+Connection ~ 3775 7150
+Wire Wire Line
+	3775 7150 3775 7575
+Connection ~ 3775 7575
+Wire Wire Line
+	3775 7575 3775 7800
+Connection ~ 4325 7575
+Wire Wire Line
+	4325 7575 4325 7800
+Connection ~ 4325 7150
+Wire Wire Line
+	4325 7150 4325 7575
+Connection ~ 4325 6725
+Wire Wire Line
+	4325 6725 4325 7150
+Wire Wire Line
+	4325 5875 4325 6300
+Connection ~ 4325 6300
+Wire Wire Line
+	4325 6300 4325 6725
+Wire Wire Line
+	4875 5875 4875 6300
+Connection ~ 4875 6300
+Wire Wire Line
+	4875 6300 4875 6725
+Connection ~ 4875 6725
+Wire Wire Line
+	4875 6725 4875 7150
+Connection ~ 4875 7150
+Wire Wire Line
+	4875 7150 4875 7575
+Connection ~ 4875 7575
+Wire Wire Line
+	4875 7575 4875 7800
+Connection ~ 5425 7575
+Wire Wire Line
+	5425 7575 5425 7800
+Connection ~ 5425 7150
+Wire Wire Line
+	5425 7150 5425 7575
+Connection ~ 5425 6725
+Wire Wire Line
+	5425 6725 5425 7150
+Wire Wire Line
+	5425 5875 5425 6300
+Connection ~ 5425 6300
+Wire Wire Line
+	5425 6300 5425 6725
+Wire Wire Line
+	5975 5875 5975 6300
+Connection ~ 5975 6300
+Wire Wire Line
+	5975 6300 5975 6725
+Connection ~ 5975 6725
+Wire Wire Line
+	5975 6725 5975 7150
+Connection ~ 5975 7150
+Wire Wire Line
+	5975 7150 5975 7575
+Connection ~ 6525 7150
+Wire Wire Line
+	6525 7150 6525 7575
+Connection ~ 6525 6725
+Wire Wire Line
+	6525 6725 6525 7150
+Wire Wire Line
+	6525 5875 6525 6300
+Connection ~ 6525 6300
+Wire Wire Line
+	6525 6300 6525 6725
 $EndSCHEMATC
