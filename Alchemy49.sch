@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Alchemy49-cache
 EELAYER 30 0
 EELAYER END
 $Descr USLegal 14000 8500
@@ -3334,13 +3333,13 @@ Wire Wire Line
 Wire Wire Line
 	8500 6950 8600 6950
 $Comp
-L Transistor_FET:FDS6630A Q1
+L Transistor_FET:DMG3402L Q1
 U 1 1 5E51C3FE
 P 12775 5950
 F 0 "Q1" H 12981 5996 50  0000 L CNN
-F 1 "FDS6630A" H 12981 5905 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 12975 5850 50  0001 L CNN
-F 3 "http://www.onsemi.com/pub/Collateral/FDS6630A-D.pdf" H 12675 5950 50  0001 L CNN
+F 1 "AO3402A" H 12981 5905 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 12975 5850 50  0001 L CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1808131821_Alpha-Omega-Semicon-AO3402_C14385.pdf" H 12675 5950 50  0001 L CNN
 	1    12775 5950
 	1    0    0    -1  
 $EndComp
@@ -3478,4 +3477,9 @@ Wire Wire Line
 Connection ~ 6525 6300
 Wire Wire Line
 	6525 6300 6525 6725
+Text GLabel 10525 6575 2    30   Input ~ 0
+SHLD
+Wire Wire Line
+	10525 6575 10450 6575
+Connection ~ 10450 6575
 $EndSCHEMATC
